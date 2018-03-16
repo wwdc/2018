@@ -12,4 +12,4 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
-|Kyle Spadaro| | | | | |GameKit, GameplayKit, SpriteKit, UIKit| | |
+|Kyle Spadaro| | |GameKit, GameplayKit, SpriteKit, UIKit| | 
