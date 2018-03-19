@@ -14,4 +14,4 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |------|--------|--------------|--------------|--------|
 |[Adrian Labbé](https://github.com/ColdGrub1384/)|[GitHub](https://github.com/ColdGrub1384/WWDC18)| | SpriteKit, UIKit | |
 |[Kyle Spadaro](https://twitter.com/kylespadaro)| | |AVFoundation, UIKit| | 
-|Sanjay Soni | | |GameKit, GameplayKit, SpriteKit, UIKit| | 
+|Sanjay Soni | | |GameKit, GameplayKit| | 
