@@ -16,3 +16,4 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 | [Jordan Osterberg](https://github.com/JordanOserberg/) | [GitHub](https://github.com/JordanOserberg/WWDC) | | SpriteKit, SceneKit, ARKit, PlaygroundBooks ||
 |[Kyle Spadaro](https://twitter.com/kylespadaro)|[GitHub](https://github.com/kylespadaro2/WWDC/tree/master/2018) | |AVFoundation, GameplayKit, SpriteKit, UIKit| | 
 |Sanjay Soni | | |GameKit, GameplayKit, SpriteKit, UIKit| | 
+|[Javier de Martín](https://twitter.com/javierdemartin)! | [GitHub](https://github.com/javierdemartin)! | | Soon 😎 | | 
