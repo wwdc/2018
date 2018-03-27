@@ -19,3 +19,5 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Kyle Spadaro](https://twitter.com/kylespadaro)|[GitHub](https://github.com/kylespadaro2/WWDC/tree/master/2018) | |AVFoundation, GameplayKit, SpriteKit, UIKit| | 
 |[Mehul Mohan](https://twitter.com/mehulmpt/)|[GitHub](https://github.com/mehulmpt/wwdc2018)| | SpriteKit, AVFoundation ||
 |Sanjay Soni | | |GameKit, GameplayKit, SpriteKit, UIKit| | 
+|[Ferdinand Loesch](https://github.com/ferdinandl007)||| AV foundation, CIDetector, SpriteKit, Cocoa|
+
