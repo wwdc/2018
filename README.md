@@ -13,6 +13,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |[Adrian Labbé](https://github.com/ColdGrub1384/)|[GitHub](https://github.com/ColdGrub1384/WWDC18)| | SpriteKit, UIKit |
+|[Dalton Prescott](https://github.com/dustarion/)|[GitHub](https://github.com/dustarion/wwdc18)|*video processing on youtube*| UIKit, SceneKit, CoreML, AVFoundation| Submitted |
 |[Ferdinand Loesch](https://github.com/ferdinandl007)||| AV foundation, CIDetector, SpriteKit, Cocoa|
 |[Javier de Martín](https://twitter.com/javierdemartin) | [GitHub](https://github.com/javierdemartin) | | | | 
 |[Jordan Osterberg](https://github.com/JordanOsterberg/) | [GitHub](https://github.com/JordanOsterberg/WWDC) | | SpriteKit, SceneKit, ARKit, PlaygroundBooks, Accessibility ||
@@ -20,5 +21,3 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Kyle Spadaro](https://twitter.com/kylespadaro)|[GitHub](https://github.com/kylespadaro2/WWDC/tree/master/2018) | |AVFoundation, GameplayKit, SpriteKit, UIKit|Submitted | 
 |[Mehul Mohan](https://twitter.com/mehulmpt/)|[GitHub](https://github.com/mehulmpt/wwdc2018)| | SpriteKit, AVFoundation ||
 |Sanjay Soni | | |GameKit, GameplayKit, SpriteKit, UIKit| | 
-
-
