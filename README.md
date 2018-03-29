@@ -15,6 +15,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Adrian Labbé](https://github.com/ColdGrub1384/)|[GitHub](https://github.com/ColdGrub1384/WWDC18)| | SpriteKit, UIKit |
 |[Ferdinand Loesch](https://github.com/ferdinandl007)||| AV foundation, CIDetector, SpriteKit, Cocoa|
 |[Javier de Martín](https://twitter.com/javierdemartin) | [GitHub](https://github.com/javierdemartin) | | | | 
+|[Jari Koopman](https://twitter.com/LotUDev) | [GitHub](https://github.com/MrLotU/WWDC18) | | UIKit, Playground Support, GameplayKit | |
 |[Jordan Osterberg](https://github.com/JordanOsterberg/) | [GitHub](https://github.com/JordanOsterberg/WWDC) | | SpriteKit, SceneKit, ARKit, PlaygroundBooks, Accessibility ||
 |[Kuixi Song](https://github.com/songkuixi)|[GitHub](https://github.com/songkuixi/ARTargetShooting) | | SceneKit, ARKit, AudioToolBox, PlaygroundSupport| | 
 |[Kyle Spadaro](https://twitter.com/kylespadaro)|[GitHub](https://github.com/kylespadaro2/WWDC/tree/master/2018) | |AVFoundation, GameplayKit, SpriteKit, UIKit|Submitted | 
