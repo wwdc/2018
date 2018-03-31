@@ -14,9 +14,9 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |------|--------|--------------|--------------|--------|
 |[Adrian Labbé](https://github.com/ColdGrub1384/)|[GitHub](https://github.com/ColdGrub1384/WWDC18)| | SpriteKit, UIKit | Submitted
 [Dalton Prescott](https://github.com/dustarion/)|[GitHub](https://github.com/dustarion/wwdc18)|*video processing on youtube*| UIKit, SceneKit, CoreML, AVFoundation| Submitted |
-=======
 |[Ferdinand Loesch](https://github.com/ferdinandl007)||| AV foundation, CIDetector, SpriteKit, Cocoa|
 |[Hugo Lundin](https://github.com/hugolundin)|||UIKit, PlaygroundBooks| Submitted |
+|[Jari Koopman](https://twitter.com/LotUDev) | [GitHub](https://github.com/MrLotU/WWDC18) | | UIKit, Playground Support, GameplayKit | |
 |[Javier de Martín](https://twitter.com/javierdemartin) | [GitHub](https://github.com/javierdemartin/WWDC18) | | UIKit, SceneKit & ARKit | Submitted | 
 |[Jordan Osterberg](https://github.com/JordanOsterberg/) | [GitHub](https://github.com/JordanOsterberg/WWDC) | | SpriteKit, SceneKit, ARKit, PlaygroundBooks, Accessibility | Submitted |
 |[Kuixi Song](https://github.com/songkuixi)|[GitHub](https://github.com/songkuixi/ARTargetShooting) | [YouTube](https://www.youtube.com/watch?v=mMFkfY6NURs) | SceneKit, ARKit, AudioToolBox, PlaygroundSupport | Submitted | 
