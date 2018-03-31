@@ -23,6 +23,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Kuixi Song](https://github.com/songkuixi)|[GitHub](https://github.com/songkuixi/ARTargetShooting) | [YouTube](https://www.youtube.com/watch?v=mMFkfY6NURs) | SceneKit, ARKit, AudioToolBox, PlaygroundSupport | Submitted | 
 |[Kyle Spadaro](https://twitter.com/kylespadaro)|[GitHub](https://github.com/kylespadaro2/WWDC/tree/master/2018) | |AVFoundation, GameplayKit, SpriteKit, UIKit|Submitted | 
 |[Mehul Mohan](https://twitter.com/mehulmpt/)|[GitHub](https://github.com/mehulmpt/wwdc2018)| | SpriteKit, AVFoundation ||
+|[Omar Albeik](https://twitter.com/omaralbeik/)|[GitHub](https://github.com/omaralbeik/mnist-coreml)| [YouTube](https://www.youtube.com/watch?v=d-6gJKAojDY) | UIKit, Playground Support, CoreML, Keras | Submitted |
 |Sanjay Soni | | |GameKit, GameplayKit, SpriteKit, UIKit| | 
 |[Yongkang Chen](https://twitter.com/iWeslie)|[GitHub](https://github.com/iWeslie)|[YouTube](https://youtu.be/nokdtApjAsg)| UIKit, QuartzCore, CoreGraphics, Dispatch, Foundation ||
 |Zhang Bozheng| | |SpriteKit, AVFoundation, Playground Support| | 
