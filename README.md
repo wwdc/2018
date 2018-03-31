@@ -12,7 +12,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
-|[Adrian Labbé](https://github.com/ColdGrub1384/)|[GitHub](https://github.com/ColdGrub1384/WWDC18)| | SpriteKit, UIKit |
+|[Adrian Labbé](https://github.com/ColdGrub1384/)|[GitHub](https://github.com/ColdGrub1384/WWDC18)| | SpriteKit, UIKit | Submitted
 |[Ferdinand Loesch](https://github.com/ferdinandl007)||| AV foundation, CIDetector, SpriteKit, Cocoa|
 |[Hugo Lundin](https://github.com/hugolundin)|||UIKit, PlaygroundBooks| Submitted |
 |[Javier de Martín](https://twitter.com/javierdemartin) | [GitHub](https://github.com/javierdemartin) | | | | 
