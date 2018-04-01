@@ -29,5 +29,6 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Qingyang Hu](https://github.com/mmlmml1)| | |SceneKit, SpriteKit, ARKit, UIKit, PlaygroundBooks| Submitted|
 | Ryan Klohr | | | GameKit, AVFoundation, SpriteKit | Submitted |
 |Sanjay Soni | | |GameKit, GameplayKit, SpriteKit, UIKit| | 
+|[Sophia Kalanovska](https://github.com/SophiaKalanovska)|[GitHub](https://github.com/SophiaKalanovska/WWDC18)| |XCPlayground, UIKit, PlaygroundSupport ,GameplayKit and AVFoundation | Submitted|
 |[Yongkang Chen](https://twitter.com/iWeslie)|[GitHub](https://github.com/iWeslie)|[YouTube](https://youtu.be/nokdtApjAsg)| UIKit, QuartzCore, CoreGraphics, Dispatch, Foundation ||
 |Zhang Bozheng| | |SpriteKit, AVFoundation, Playground Support| | 
