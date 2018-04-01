@@ -26,3 +26,4 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |Sanjay Soni | | |GameKit, GameplayKit, SpriteKit, UIKit| | 
 |[Yongkang Chen](https://twitter.com/iWeslie)|[GitHub](https://github.com/iWeslie)|[YouTube](https://youtu.be/nokdtApjAsg)| UIKit, QuartzCore, CoreGraphics, Dispatch, Foundation ||
 |Zhang Bozheng| | |SpriteKit, AVFoundation, Playground Support| | 
+|Jacky Yu| [GitHub](https://github.com/CaptainYukinoshitaHachiman/Lenses) | |UIKit, Playground Support| Submitted | 
