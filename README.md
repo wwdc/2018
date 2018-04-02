@@ -49,6 +49,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Weiran Du](http://www.williamdu.space/)|||UIKit, CoreGraphics| Submitted|
 |William Taylor| | [YouTube](https://youtu.be/qXgyTGIG_Xw) | SpriteKit, ARKit, AVFoundation, UIKit | Submitted | 
 |[Yichen Cao](https://schemetrical.github.io)|[GitHub](https://github.com/Schemetrical)|| UIKit, CoreML |Submitted|
+|[Yogesh Kohli](https://github.com/yogesh2209)|[GitHub](https://github.com/yogesh2209/YPad-SwiftPlaygroundBook)||UIKit, Core Animation, AVFoundation, Playground Support|Submitted|
 |[Yongkang Chen](https://twitter.com/iWeslie)|[GitHub](https://github.com/iWeslie)|[YouTube](https://youtu.be/nokdtApjAsg)| UIKit, QuartzCore, CoreGraphics, Dispatch, Foundation ||
 |[Zach Knox](https://twitter.com/zmknox) | [Github](https://github.com/zmknox/WWDC18-Scholarship-Application) | [YouTube](https://youtu.be/Kl4ZJdD8dkY) | SpriteKit | Submitted |
 |[Zach Simone](https://twitter.com/zachsimone)|[GitHub](https://github.com/zachsimone/WWDC18-Insulin-Pump-Simulator)||UIKit|Submitted|
