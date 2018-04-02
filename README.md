@@ -29,6 +29,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Emannuel Carvalho](https://github.com/emannuelOC/)|[GitHub](https://github.com/emannuelOC/WWDC2018)|[YouTube](https://www.youtube.com/watch?v=o0N6a5QapB0&feature=youtu.be)| Vision, CALayer, Core Animation, AVCapture, UIKit | Submitted |
 |[Ferdinand Loesch](https://github.com/ferdinandl007)||| AVFoundation, CIDetector, SpriteKit, Cocoa||
 |[Gautham Elango](https://github.com/gg2001)|[GitHub](https://github.com/gg2001/SwiftChain)||UIKit, Playground Support| Submitted |
+|Giovanni Luigi Bruno||[YouTube](https://www.youtube.com/watch?v=FIID-XjP4DQ&feature=youtu.be)|SpriteKit, Gameplay Kit, AVFoundation| Submitted |
 |[Hengyu Liu](https://github.com/a211212abc)|||UIKit, PlaygroundBooks| Submitted |
 |[Hugo Lundin](https://github.com/hugolundin)|||UIKit, PlaygroundBooks| Submitted |
 |[Igor Rinkovec](https://github.com/TheWildHorse)|[GitHub](https://github.com/TheWildHorse/GuillochePlayground)|[YouTube](https://www.youtube.com/watch?v=UzRLZKDSB0I)|SceneKit, UIKit, PlaygroundBooks| Submitted |
