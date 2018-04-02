@@ -53,7 +53,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Nicholas Grana](https://github.com/Nicholas714)|[GitHub](https://github.com/Nicholas714/WWDC-2018)| [YouTube](https://youtu.be/xpKNT1dRKks) | ARKit, SceneKit, SpriteKit | Submitted |
 |[Omar Albeik](https://twitter.com/omaralbeik/)|[GitHub](https://github.com/omaralbeik/mnist-coreml)| [YouTube](https://www.youtube.com/watch?v=d-6gJKAojDY) | UIKit, Playground Support, CoreML, Keras | Submitted |
 |[Qingyang Hu](https://github.com/mmlmml1)| | |SceneKit, SpriteKit, ARKit, UIKit, PlaygroundBooks| Submitted|
-|Ryan Klohr | | | GameKit, AVFoundation, SpriteKit | Submitted |
+|[Raffael Kaehn](https://github.com/vortycon)|[GitHub](https://github.com/vortycon/WWDC18)| [YouTube](https://youtu.be/KFWYJvmqPio) | UIKit, SceneKit | Submitted |
 |[Răzvan Geangu](https://github.com/razvangeangu)|[GitHub](https://github.com/razvangeangu/WWDC18-SpaceWord)| | SpriteKit, UIKit, AVFoundation | Submitted|
 |[Renata Faria](https://github.com/xReee)|[GitHub](https://github.com/xReee/wwdc2018)|[YouTube](https://www.youtube.com/watch?v=YHBSvNmBFBY&t)| UIKit, AVFoundation, Accessibility, NotificationCenter, UIGestures | Submitted|
 |Ryan Klohr| | | GameKit, AVFoundation, SpriteKit | Submitted |
