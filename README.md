@@ -39,6 +39,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Samay Shamdasani](https://shamdasani.org) | [GitHub](https://github.com/shamdasani/SwiftFrameworks) | [YouTube](https://www.youtube.com/watch?v=b3Huqtw2log) | SceneKit, Core Animation, Core Graphics, UIKit, AVFoundation, Vision | Submitted |
 |Sanjay Soni | | |GameKit, GameplayKit, SpriteKit, UIKit| | 
 |[Sophia Kalanovska](https://github.com/SophiaKalanovska)|[GitHub](https://github.com/SophiaKalanovska/WWDC18)| |XCPlayground, UIKit, PlaygroundSupport ,GameplayKit and AVFoundation | Submitted|
+|[Weiran Du](http://www.williamdu.space/)|||UIKit, CoreGraphics, PlaygroundSupport| Submitted|
 |[Yichen Cao](https://schemetrical.github.io)|[GitHub](https://github.com/Schemetrical)|| UIKit, CoreML |Submitted|
 |[Yongkang Chen](https://twitter.com/iWeslie)|[GitHub](https://github.com/iWeslie)|[YouTube](https://youtu.be/nokdtApjAsg)| UIKit, QuartzCore, CoreGraphics, Dispatch, Foundation ||
 |[Zach Knox](https://twitter.com/zmknox) | [Github](https://github.com/zmknox/WWDC18-Scholarship-Application) | [YouTube](https://youtu.be/Kl4ZJdD8dkY) | SpriteKit | Submitted |
