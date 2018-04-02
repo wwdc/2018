@@ -53,3 +53,4 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Zach Knox](https://twitter.com/zmknox) | [Github](https://github.com/zmknox/WWDC18-Scholarship-Application) | [YouTube](https://youtu.be/Kl4ZJdD8dkY) | SpriteKit | Submitted |
 |[Zach Simone](https://twitter.com/zachsimone)|[GitHub](https://github.com/zachsimone/WWDC18-Insulin-Pump-Simulator)||UIKit|Submitted|
 |Zhang Bozheng| | |SpriteKit, AVFoundation| | 
+|[Zhixing Zhang](https://www.neoto.xin/)| [GitHub](https://github.com/Neotoxin4365/WWDC18) |  | UIKit, CoreAnimation, CoreGraphics, Carthage | Submitted |
