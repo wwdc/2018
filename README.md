@@ -15,7 +15,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Adrian Labbé](https://github.com/ColdGrub1384/)|[GitHub](https://github.com/ColdGrub1384/WWDC18)| | SpriteKit, UIKit | Submitted|
 |[Adrián Rubio](https://github.com/Adrxx)|[GitHub](https://github.com/Adrxx/Elastic-Cat-Toaster)| [YouTube](https://youtu.be/Gc8bZLghYFY) | SpriteKit, GameplayKit | Submitted|
 |Anıl Gürses|||UIKit, PlaygroundSupport, AVFoundation|Submitted|
-|[Anirudh Natarajan] (https://github.com/aniNatarajan12/)| [GitHub] (https://github.com/aniNatarajan12/RushToWWDC)| [Youtube] (https://www.youtube.com/watch?v=IN3XOPIYWsY)| ARKit, SceneKit, SpriteKit, AVFoundation| Submitted|
+|[Anirudh Natarajan](https://github.com/aniNatarajan12/)| [GitHub](https://github.com/aniNatarajan12/RushToWWDC)| [Youtube](https://www.youtube.com/watch?v=IN3XOPIYWsY)| ARKit, SceneKit, SpriteKit, AVFoundation| Submitted|
 |[Antonio Zaitoun](https://github.com/Minitour/)|[GitHub](https://github.com/Minitour/Micro-Interface-Builder)| | UIKit, SceneKit, CoreGraphics,CoreAnimation | Submitted|
 |[Aulene De](https://github.com/Aulene/)|[GitHub](https://github.com/Aulene/CaptureTheAlien)| | SpriteKit | Submitted|
 |[Bradley Mackey](https://github.com/bradleymackey)|[GitHub](https://github.com/bradleymackey/rsa-playground)|[YouTube](https://youtu.be/d36YmVfUD9s)| SpriteKit, SceneKit, GameplayKit, UIKit | Submitted |
