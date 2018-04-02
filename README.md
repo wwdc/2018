@@ -23,7 +23,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Dalton Prescott](https://github.com/dustarion/)|[GitHub](https://github.com/dustarion/wwdc18)|*video processing on youtube*| UIKit, SceneKit, CoreML, AVFoundation| Submitted |
 |[Dowland Aiello](https://github.com/dowlandaiello/)|[GitHub](https://github.com/dowlandaiello/Pop)| [YouTube](https://youtu.be/MWhHSGbS3gM) | AppKit, SpriteKit, Foundation | Submitted|
 |[Eliott Hauteclair](https://github.com/Eliottiosdevs/)|| | AVFoundation, UIKit | Submitted |
-|[Emannuel Carvalho](https://github.com/emannuelOC/)|[GitHub](https://github.com/emannuelOC/WWDC2018)|| Vision, CALayer, Core Animation, AVCapture, UIKit | Submitted |
+|[Emannuel Carvalho](https://github.com/emannuelOC/)|[GitHub](https://github.com/emannuelOC/WWDC2018)|[YouTube](https://www.youtube.com/watch?v=o0N6a5QapB0&feature=youtu.be)| Vision, CALayer, Core Animation, AVCapture, UIKit | Submitted |
 |[Ferdinand Loesch](https://github.com/ferdinandl007)||| AVFoundation, CIDetector, SpriteKit, Cocoa||
 |[Gautham Elango](https://github.com/gg2001)|[GitHub](https://github.com/gg2001/SwiftChain)||UIKit, Playground Support| Submitted |
 |[Hugo Lundin](https://github.com/hugolundin)|||UIKit, PlaygroundBooks| Submitted |
