@@ -34,6 +34,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Qingyang Hu](https://github.com/mmlmml1)| | |SceneKit, SpriteKit, ARKit, UIKit, PlaygroundBooks| Submitted|
 |[Răzvan Geangu](https://github.com/razvangeangu)|[GitHub](https://github.com/razvangeangu/WWDC18-SpaceWord)| | SpriteKit, UIKit, AVFoundation | Submitted|
 | Ryan Klohr | | | GameKit, AVFoundation, SpriteKit | Submitted |
+|[Samay Shamdasani](https://shamdasani.org) | [GitHub](https://github.com/shamdasani/SwiftFrameworks) | [YouTube](https://www.youtube.com/watch?v=b3Huqtw2log) | SceneKit, Core Animation, Core Graphics, UIKit, AVFoundation, Vision | Submitted |
 |Sanjay Soni | | |GameKit, GameplayKit, SpriteKit, UIKit| | 
 |[Sophia Kalanovska](https://github.com/SophiaKalanovska)|[GitHub](https://github.com/SophiaKalanovska/WWDC18)| |XCPlayground, UIKit, PlaygroundSupport ,GameplayKit and AVFoundation | Submitted|
 |[Yongkang Chen](https://twitter.com/iWeslie)|[GitHub](https://github.com/iWeslie)|[YouTube](https://youtu.be/nokdtApjAsg)| UIKit, QuartzCore, CoreGraphics, Dispatch, Foundation ||
