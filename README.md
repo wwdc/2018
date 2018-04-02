@@ -13,7 +13,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |[Adrian Labbé](https://github.com/ColdGrub1384/)|[GitHub](https://github.com/ColdGrub1384/WWDC18)| | SpriteKit, UIKit | Submitted|
-|[Anıl GÜRSES]|--------|--------------|[UIKit,PlaygroundSupport,AVFoundation]|[Submitted]|
+|Anıl GÜRSES|||UIKit, PlaygroundSupport, AVFoundation|Submitted|
 |[Christian Schnorr](https://github.com/jenox/) | [GitHub](https://github.com/jenox/WWDC-2018-Bezier-Curves-in-Typography/) |  | CoreGraphics & CoreText | Submitted | 
 |[Dalton Prescott](https://github.com/dustarion/)|[GitHub](https://github.com/dustarion/wwdc18)|*video processing on youtube*| UIKit, SceneKit, CoreML, AVFoundation| Submitted |
 |[Dowland Aiello](https://github.com/dowlandaiello/)|[GitHub](https://github.com/dowlandaiello/Pop)| [YouTube](https://youtu.be/MWhHSGbS3gM) | AppKit, SpriteKit, Foundation, PlaygroundSupport | Submitted|
@@ -38,6 +38,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Samay Shamdasani](https://shamdasani.org) | [GitHub](https://github.com/shamdasani/SwiftFrameworks) | [YouTube](https://www.youtube.com/watch?v=b3Huqtw2log) | SceneKit, Core Animation, Core Graphics, UIKit, AVFoundation, Vision | Submitted |
 |Sanjay Soni | | |GameKit, GameplayKit, SpriteKit, UIKit| | 
 |[Sophia Kalanovska](https://github.com/SophiaKalanovska)|[GitHub](https://github.com/SophiaKalanovska/WWDC18)| |XCPlayground, UIKit, PlaygroundSupport ,GameplayKit and AVFoundation | Submitted|
+|[Yichen Cao](https://schemetrical.github.io)|[GitHub](https://github.com/Schemetrical)|| UIKit, CoreML |Submitted|
 |[Yongkang Chen](https://twitter.com/iWeslie)|[GitHub](https://github.com/iWeslie)|[YouTube](https://youtu.be/nokdtApjAsg)| UIKit, QuartzCore, CoreGraphics, Dispatch, Foundation ||
 |[Zach Knox](https://twitter.com/zmknox) | [Github](https://github.com/zmknox/WWDC18-Scholarship-Application) | [YouTube](https://youtu.be/Kl4ZJdD8dkY) | SpriteKit | Submitted |
 |[Zach Simone](https://twitter.com/zachsimone)|[GitHub](https://github.com/zachsimone/WWDC18-Insulin-Pump-Simulator)||UIKit|Submitted|
