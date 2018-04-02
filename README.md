@@ -34,7 +34,8 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Julian S](https://twitter.com/justdotJS) | [GitHub](https://github.com/justdotJS) | [YouTube](https://www.youtube.com/watch?v=Sxq3bxzBPwY) | AppKit, SpriteKit, AVFoundation |Submitted|
 |[Kuixi Song](https://github.com/songkuixi)|[GitHub](https://github.com/songkuixi/ARTargetShooting) | [YouTube](https://www.youtube.com/watch?v=mMFkfY6NURs) | SceneKit, ARKit, AudioToolBox | Submitted | 
 |[Kyle Spadaro](https://twitter.com/kylespadaro)|[GitHub](https://github.com/kylespadaro2/WWDC/tree/master/2018) | |AVFoundation, GameplayKit, SpriteKit, UIKit|Submitted | 
-|[Lalo Martnez](https://twitter.com/L__A__L__O)|[GitHub](https://github.com/LaloMrtnz/Miles) | [YouTube](https://www.youtube.com/watch?v=gX_dBSTE-cE)|AudioToolbox, AVFoundation, MIDI, SpriteKit|Submitted | 
+|[Lalo Martnez](https://twitter.com/L__A__L__O)|[GitHub](https://github.com/LaloMrtnz/Miles) | [YouTube](https://www.youtube.com/watch?v=gX_dBSTE-cE)|AudioToolbox, AVFoundation, MIDI, SpriteKit|Submitted |
+|[Leon Hahne](https://github.com/Limoo)|[GitHub](https://github.com/Limoo/WWDC) | [YouTube](https://youtu.be/JHujapuFdEk)|SpriteKit|Submitted | 
 |[Marko Crnković](https://www.mbobpro.com)|[GitHub](https://github.com/chih98/wwdc2018)| [YouTube](https://youtu.be/TLk9B5GRLtM)|Accelerate, AVFoundation, SpriteKit|Submitted|
 |[Mehul Mohan](https://twitter.com/mehulmpt/)|[GitHub](https://github.com/mehulmpt/wwdc2018)| | SpriteKit, AVFoundation ||
 |[Ming Mai](https://twitter.com/mmdadao/) | [GitHub](https://github.com/kingcos/ML-Scratch-WWDC18) | | ARKit, CoreML, PlaugroundBooks, SceneKit, Vision | Submitted |
