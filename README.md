@@ -16,6 +16,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Adrián Rubio](https://github.com/Adrxx)|[GitHub](https://github.com/Adrxx/Elastic-Cat-Toaster)| [YouTube](https://youtu.be/Gc8bZLghYFY) | SpriteKit, GameplayKit | Submitted|
 |Anıl Gürses|||UIKit, PlaygroundSupport, AVFoundation|Submitted|
 |[Antonio Zaitoun](https://github.com/Minitour/)|[GitHub](https://github.com/Minitour/Micro-Interface-Builder)| | UIKit, SceneKit, CoreGraphics,CoreAnimation | Submitted|
+|[Aulene De](https://github.com/Aulene/)|[GitHub](https://github.com/Aulene/CaptureTheAlien)| | SpriteKit | Submitted|
 |[Bradley Mackey](https://github.com/bradleymackey)|[GitHub](https://github.com/bradleymackey/rsa-playground)|[YouTube](https://youtu.be/d36YmVfUD9s)| SpriteKit, SceneKit, GameplayKit, UIKit | Submitted |
 | [Christian Schnorr](https://github.com/jenox/) | [GitHub](https://github.com/jenox/WWDC-2018-Bezier-Curves-in-Typography/) |  | CoreGraphics & CoreText | Submitted | 
 |[Dalton Prescott](https://github.com/dustarion/)|[GitHub](https://github.com/dustarion/wwdc18)|*video processing on youtube*| UIKit, SceneKit, CoreML, AVFoundation| Submitted |
