@@ -56,6 +56,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Lukas A. Mueller](https://lukasam.com)|[GitHub](https://github.com/luki/wwdc-2018)| | Darwin, PlaygroundSupport, SpriteKit, UIKit | Submitted |
 |[Marko Crnković](https://www.mbobpro.com)|[GitHub](https://github.com/chih98/wwdc2018)| [YouTube](https://youtu.be/TLk9B5GRLtM)|Accelerate, AVFoundation, SpriteKit|Submitted|
 |[Mars Geldard](https://twitter.com/TheMartianLife)|[GitHub](https://github.com/TheMartianLife/WWDC-2018)| | UIKit, SpriteKit, PlaygroundBooks, AVFoundation |Submitted|
+|[Mauricio Lorenzetti](https://github.com/mauricio-lorenzetti/)|[GitHub](https://github.com/mauricio-lorenzetti/Connecting-Dots-WWDC18)| | CoreAnimation, UIKit, PlaygroundSupport | Submitted|
 |[Mehul Mohan](https://twitter.com/mehulmpt/)|[GitHub](https://github.com/mehulmpt/wwdc2018)| | SpriteKit, AVFoundation ||
 |[Ming Mai](https://twitter.com/mmdadao/) | [GitHub](https://github.com/kingcos/ML-Scratch-WWDC18) | | ARKit, CoreML, PlaugroundBooks, SceneKit, Vision | Submitted |
 |[Mohamed Salah](https://www.facebook.com/Abo.Salahh77) | [GitHub](https://github.com/MoHamEdSaLaHH/WWDC18-Scholarship-Submission) |[YouTube](https://www.youtube.com/watch?v=O5AdeSrqHw4) | UIKit, AVFoundation, SceneKit, CoreGraphics | Submitted |
