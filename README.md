@@ -72,6 +72,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Sophia Kalanovska](https://github.com/SophiaKalanovska)|[GitHub](https://github.com/SophiaKalanovska/WWDC18)| |XCPlayground, UIKit, GameplayKit, AVFoundation | Submitted|
 |[Veit Progl](https://twitter.com/VoxelVoxels)|[GitHub](https://github.com/Veeit/WWDC_2018)||UIKit, CoreML, SceneKit, ARKit|Submitted|
 |[Victor Kreniski](https://twitter.com/VictorKreniski)|[GitHub](https://github.com/krevi27/WWDC18)|[YouTube](https://www.youtube.com/watch?v=P17qt8iYJ_4)| SpriteKit, AVFoundation | Submitted |
+|[Walter Zhu](https://www.walterzhu.com/)|||UIKit, CoreGraphics, PlaygroundBooks| Submitted|
 |[Weiran Du](http://www.williamdu.space/)|||UIKit, CoreGraphics| Submitted|
 |William Taylor| | [YouTube](https://youtu.be/qXgyTGIG_Xw) | SpriteKit, ARKit, AVFoundation, UIKit | Submitted | 
 |[Yash Banka](https://github.com/yash-banka/)|[GitHub](https://github.com/yash-banka/WWDC18)||UIKit, Foundation, AVFoundation, PlaygroundBook|Submitted|
