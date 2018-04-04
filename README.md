@@ -24,6 +24,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Bradley Mackey](https://github.com/bradleymackey)|[GitHub](https://github.com/bradleymackey/rsa-playground)|[YouTube](https://youtu.be/d36YmVfUD9s)| SpriteKit, SceneKit, GameplayKit, UIKit | Submitted |
 |[Christian Schnorr](https://github.com/jenox/) | [GitHub](https://github.com/jenox/WWDC-2018-Bezier-Curves-in-Typography/) || CoreGraphics & CoreText | Submitted | 
 |[Dalton Prescott](https://github.com/dustarion/)|[GitHub](https://github.com/dustarion/wwdc18)|*video processing on youtube*| UIKit, SceneKit, CoreML, AVFoundation| Submitted |
+|[Daniel Gruber](https://github.com/danielgruber)|[Bitbucket](https://repo.goma-cms.org/users/daniel.gruber/repos/wwdc-2018/browse)| | UIKit, PlaygroundBooks, CoreGraphics | Submitted|
 |[David Nadoba](https://github.com/dnadoba) | [GitHub](https://github.com/dnadoba/games-and-math-playgroundbook) | [YouTube](https://youtu.be/95x6WlrhlG4) | SpriteKit, UIKit | Submitted |
 |[Dowland Aiello](https://github.com/dowlandaiello/)|[GitHub](https://github.com/dowlandaiello/Pop)| [YouTube](https://youtu.be/MWhHSGbS3gM) | AppKit, SpriteKit, Foundation | Submitted|
 |[Eliott Hauteclair](https://github.com/Eliottiosdevs/)|| | AVFoundation, UIKit | Submitted |
