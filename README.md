@@ -17,6 +17,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Adrián Rubio](https://github.com/Adrxx)|[GitHub](https://github.com/Adrxx/Elastic-Cat-Toaster)| [YouTube](https://youtu.be/Gc8bZLghYFY) | SpriteKit, GameplayKit | Submitted|
 |[Albert Sanchez](https://github.com/AlbertSanIza/)|[GitHub](https://github.com/AlbertSanIza/TheHawkingCosmos) | [YouTube](https://youtu.be/7TKopNBXiHk) | SpriteKit, SceneKit, AVFoundation, Foundation, PlaygroundSupport, AppKit | Submitted|
 |[Alessandro Minopoli](https://github.com/alex010x) | [GitHub](https://github.com/alex010x/HackNscape) | | SpriteKit, Playground Support, PlaygroundBook | Submitted |
+|[Alexandre Vassinievski](https://github.com/alexvassini)| [GitHub](https://github.com/alexvassini/ArDrawing) |  | UIKit, ARKit, SceneKit | Submitted |
 |[Anıl Gürses](https://github.com/anlgrses)|[GitHub](https://github.com/anlgrses/wwdc2018submission)||UIKit, AVFoundation,Playground Support|Submitted|
 |[Anirudh Natarajan](https://github.com/aniNatarajan12/)| [GitHub](https://github.com/aniNatarajan12/RushToWWDC)| [Youtube](https://www.youtube.com/watch?v=IN3XOPIYWsY)| ARKit, SceneKit, SpriteKit, AVFoundation| Submitted|
 |[Antonio Zaitoun](https://github.com/Minitour/)|[GitHub](https://github.com/Minitour/Micro-Interface-Builder)| | UIKit, SceneKit, CoreGraphics,CoreAnimation | Submitted|
