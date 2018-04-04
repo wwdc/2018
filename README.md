@@ -85,6 +85,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Sam Eckert](https://sam0711er.com) | | [YouTube](https://youtu.be/vEyxsDpCYdY) | ARKit, SceneKit, UIKit (+Dynamics), AVKit, AVFoundation | Submitted |
 |[Samay Shamdasani](https://shamdasani.org) | [GitHub](https://github.com/shamdasani/SwiftFrameworks) | [YouTube](https://www.youtube.com/watch?v=b3Huqtw2log) | SceneKit, Core Animation, Core Graphics, UIKit, AVFoundation, Vision | Submitted |
 |Sanjay Soni | | |GameKit, GameplayKit, SpriteKit, UIKit| | 
+|[Sergen Gönenç](https://github.com/sergendev)|[GitHub](https://github.com/sergendev/Swiftgaea)| | UIKit, PlaygroundSupport, CoreGraphics | Submitted |
 |[Sophia Kalanovska](https://github.com/SophiaKalanovska)|[GitHub](https://github.com/SophiaKalanovska/WWDC18)| |XCPlayground, UIKit, GameplayKit, AVFoundation | Submitted|
 |[Valmir Massoni Jr.](https://github.com/vrjunior)|[GitHub](https://github.com/vrjunior/Metamorphosis)|[YouTube](https://youtu.be/r2Xgh0uxGe0)|SceneKit, AVFoundation|Submitted|
 |[Veit Progl](https://twitter.com/VoxelVoxels)|[GitHub](https://github.com/Veeit/WWDC_2018)||UIKit, CoreML, SceneKit, ARKit|Submitted|
