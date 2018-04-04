@@ -24,6 +24,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Antonio Zaitoun](https://github.com/Minitour/)|[GitHub](https://github.com/Minitour/Micro-Interface-Builder)| [YouTube](https://www.youtube.com/watch?v=G0yjMRrsG7c)| UIKit, SceneKit, CoreGraphics, CoreAnimation | Submitted|
 |[Aulene De](https://github.com/Aulene/)|[GitHub](https://github.com/Aulene/CaptureTheAlien)| | SpriteKit | Submitted|
 |[Austin Fuller](https://github.com/AustinFuller/)|[GitHub](https://github.com/AustinFuller/WWDC2018Playground) | | UIKit, AVFoundation, CoreGraphics | Submitted |
+|[Ben Emdon](https://github.com/BenEmdon)|[GitHub](https://github.com/BenEmdon/8-Bit-MusicMaker) | | UIKit, AVFoundation | Submitted |
 |[Bradley Mackey](https://github.com/bradleymackey)|[GitHub](https://github.com/bradleymackey/rsa-playground)|[YouTube](https://youtu.be/d36YmVfUD9s)| SpriteKit, SceneKit, GameplayKit, UIKit | Submitted |
 |[Bruno Chagas](https://github.com/bruno3chagas) | [GitHub](https://github.com/bruno3chagas/ShapeRave) | [YouTube](https://youtu.be/fM53qPnnk5M) | SpriteKit, UIKit | Submitted |
 |[Christian Schnorr](https://github.com/jenox/) | [GitHub](https://github.com/jenox/WWDC-2018-Bezier-Curves-in-Typography/) || CoreGraphics & CoreText | Submitted | 
