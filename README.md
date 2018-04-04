@@ -46,7 +46,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Hugo Lundin](https://github.com/hugolundin)|||UIKit, PlaygroundBooks| Submitted |
 |[Igor Rinkovec](https://github.com/TheWildHorse)|[GitHub](https://github.com/TheWildHorse/GuillochePlayground)|[YouTube](https://www.youtube.com/watch?v=UzRLZKDSB0I)|SceneKit, UIKit, PlaygroundBooks| Submitted |
 |[Jack Bruienne](https://github.com/MCJack123)||[Blog](https://jackmacwindows.tumblr.com)|Core ML, ARKit, SpriteKit, AVFoundation|Submitted|
-|[Jack Elms](https://github.com/elmo364/WWDC-CraigBot)|||UIKit, CoreGraphics, SpriteKit, AVFoundation|Submitted|
+|Jack Elms| [GitHub](https://github.com/elmo364/WWDC-CraigBot)||UIKit, CoreGraphics, SpriteKit, AVFoundation|Submitted|
 |Jacky Yu| [GitHub](https://github.com/CaptainYukinoshitaHachiman/Lenses) | |UIKit, Playground Support| Submitted |
 |[Jai Bhavnani](https://twitter.com/jai_bhavnani) | [GitHub](https://github.com/jbhav24/wwdc18) | | UIKit, SceneKit, AVFoundation, Playground Support, Core Animation, UIGestures, Dispatch, Core Graphics | Submitted | 
 |[Jari Koopman](https://twitter.com/LotUDev) | [GitHub](https://github.com/MrLotU/WWDC18) | | UIKit, Playground Support, GameplayKit | |
