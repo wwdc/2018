@@ -59,6 +59,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Kyle Spadaro](https://twitter.com/kylespadaro)|[GitHub](https://github.com/kylespadaro2/WWDC/tree/master/2018) | |AVFoundation, GameplayKit, SpriteKit, UIKit|Submitted | 
 |[Lalo Martnez](https://twitter.com/L__A__L__O)|[GitHub](https://github.com/LaloMrtnz/Miles) | [YouTube](https://www.youtube.com/watch?v=gX_dBSTE-cE)|AudioToolbox, AVFoundation, MIDI, SpriteKit|Submitted | 
 |[Leon Hahne](https://github.com/Limoo)|[GitHub](https://github.com/Limoo/WWDC) | [YouTube](https://youtu.be/JHujapuFdEk) |SpriteKit | Submitted |
+|[Leonel Lima](https://github.com/leo1mml)|[GitHub](https://github.com/leo1mml/WWDC2018) | [YouTube](https://www.youtube.com/watch?v=N-DQeb1bKKk) |SpriteKit, GameplayKit, UIKit, AVFoundation | Submitted |
 |[Llogari Casas](https://github.com/llogaricasas)|[GitHub](https://github.com/llogaricasas/WWDC2018) | [YouTube](https://youtu.be/MTmifyGFKRM)|UIKit, Playground Support, CoreML|Submitted|
 |[Lukas A. Mueller](https://lukasam.com)|[GitHub](https://github.com/luki/wwdc-2018)| | Darwin, PlaygroundSupport, SpriteKit, UIKit | Submitted |
 | [Maciej Gomółka](https://github.com/Zaprogramiacz) | [GitHub](https://github.com/Zaprogramiacz/Labyrinth-WWDC2018) | [YouTube](https://www.youtube.com/watch?v=5f5r8MwdWWM) | UIKit, AVFoundation, XCTest, PlaygroundSupport | Submitted |
