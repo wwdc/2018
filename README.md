@@ -38,6 +38,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Daniel Gruber](https://github.com/danielgruber)|[Bitbucket](https://repo.goma-cms.org/users/daniel.gruber/repos/wwdc-2018/browse)| | UIKit, PlaygroundBooks, CoreGraphics | Submitted|
 |[David Nadoba](https://github.com/dnadoba) | [GitHub](https://github.com/dnadoba/games-and-math-playgroundbook) | [YouTube](https://youtu.be/95x6WlrhlG4) | SpriteKit, UIKit | Submitted |
 |[Dowland Aiello](https://github.com/dowlandaiello/)|[GitHub](https://github.com/dowlandaiello/Pop)| [YouTube](https://youtu.be/MWhHSGbS3gM) | AppKit, SpriteKit, Foundation | Submitted|
+|[Eduardo Yutaka Nakanishi](https://github.com/eduardoyutaka) | [GitHub](https://github.com/eduardoyutaka/magical-sketch) | [YouTube](https://www.youtube.com/watch?v=H1Jo0hcLpIE) | UIKit, CoreMotion | Submitted |
 |[Eliott Hauteclair](https://github.com/Eliottiosdevs/)|| | AVFoundation, UIKit | Submitted |
 |[Emannuel Carvalho](https://github.com/emannuelOC/)|[GitHub](https://github.com/emannuelOC/WWDC2018)|[YouTube](https://www.youtube.com/watch?v=o0N6a5QapB0&feature=youtu.be)| Vision, CALayer, Core Animation, AVCapture, UIKit | Submitted |
 |[Ferdinand Loesch](https://github.com/ferdinandl007)||| AVFoundation, CIDetector, SpriteKit, Cocoa||
