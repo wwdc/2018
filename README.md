@@ -16,6 +16,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Aaron Nguyen](https://github.com/attwelveDev)|[GitHub](https://github.com/attwelveDev/WWDC18-Submission)| | PlaygroundSupport, UIKit, AVFoundation | Submitted |
 |[Adrian Labbé](https://github.com/ColdGrub1384/)|[GitHub](https://github.com/ColdGrub1384/WWDC18)| | SpriteKit, UIKit | Submitted|
 |[Adrián Rubio](https://github.com/Adrxx)|[GitHub](https://github.com/Adrxx/Elastic-Cat-Toaster)| [YouTube](https://youtu.be/Gc8bZLghYFY) | SpriteKit, GameplayKit | Submitted|
+|[Akshaya Dinesh](https://github.com/akshayadinesh/)|[GitHub](https://github.com/akshayadinesh/SpaceMathPlayground)| | SpriteKit, UIKit | Submitted|
 |[Albert Sanchez](https://github.com/AlbertSanIza/)|[GitHub](https://github.com/AlbertSanIza/TheHawkingCosmos) | [YouTube](https://youtu.be/7TKopNBXiHk) | SpriteKit, SceneKit, AVFoundation, Foundation, PlaygroundSupport, AppKit | Submitted|
 |[Alessandro Izzo](https://github.com/Hantex9/)|[GitHub](https://github.com/Hantex9/PuzzlePipe) | [YouTube](https://youtu.be/SG972hlY8Ds) | UIKit, GameplayKit, AVFoundation, PlaygroundSupport | Submitted|
 |[Alessandro Minopoli](https://github.com/alex010x) | [GitHub](https://github.com/alex010x/HackNscape) | | SpriteKit, Playground Support, PlaygroundBook | Submitted |
