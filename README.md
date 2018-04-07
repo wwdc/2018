@@ -96,6 +96,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Raffael Kaehn](https://github.com/vortycon)|[GitHub](https://github.com/vortycon/WWDC18)| [YouTube](https://youtu.be/KFWYJvmqPio) | UIKit, SceneKit | Submitted |
 |[Răzvan Geangu](https://github.com/razvangeangu)|[GitHub](https://github.com/razvangeangu/WWDC18-SpaceWord)| | SpriteKit, UIKit, AVFoundation | Submitted|
 |[Renata Faria](https://github.com/xReee)|[GitHub](https://github.com/xReee/wwdc2018)|[YouTube](https://www.youtube.com/watch?v=YHBSvNmBFBY&t)| UIKit, AVFoundation, Accessibility, NotificationCenter, UIGestures | Submitted|
+|[Ricardo Ferreira](https://github.com/RicardoFelipeFerreira)| |[YouTube](https://youtu.be/u_ohynGdFIo)| UIKit, ARKit, SpriteKit, SceneKit, AVFoundation | Submitted|
 |[Ricardo V. Del Frari](https://github.com/ricardovdf)|[GitHub](https://github.com/ricardovdf/wwdc2018)||SpriteKit| Submitted|
 |Ryan Klohr| | | GameKit, AVFoundation, SpriteKit | Submitted |
 |[Sam Eckert](https://sam0711er.com) | | [YouTube](https://youtu.be/vEyxsDpCYdY) | ARKit, SceneKit, UIKit (+Dynamics), AVKit, AVFoundation | Submitted |
