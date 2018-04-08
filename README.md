@@ -90,6 +90,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Mohamed Salah](https://www.facebook.com/Abo.Salahh77) | [GitHub](https://github.com/MoHamEdSaLaHH/WWDC18-Scholarship-Submission) |[YouTube](https://www.youtube.com/watch?v=O5AdeSrqHw4) | UIKit, AVFoundation, SceneKit, CoreGraphics | Submitted |
 |[Monika Zielonka](https://github.com/emzielonka)| | [YouTube](https://youtu.be/Dmbo9deFmvI) | UIKit, Core Animation, Core Graphics | Submitted |
 |[Nicholas Grana](https://github.com/Nicholas714)|[GitHub](https://github.com/Nicholas714/WWDC-2018)| [YouTube](https://youtu.be/xpKNT1dRKks) | ARKit, SceneKit, SpriteKit | Submitted |
+|[Nirmit Patel](https://github.com/nap0017)| | | UIKit, ARKit, SceneKit, SpriteKit | Submitted |
 |[Omar Albeik](https://twitter.com/omaralbeik/)|[GitHub](https://github.com/omaralbeik/mnist-coreml)| [YouTube](https://www.youtube.com/watch?v=d-6gJKAojDY) | UIKit, CoreML, Keras | Submitted |
 |Ozan Mirza| [GitHub](http://github.com/ozanmirza1/PaintPad-2.0) || UIKit | Submitted |
 |[Peter Simon](http://github.com/donleysimon)|[GitHub](http://github.com/donleysimon/WWDC-2018-Colorless)|| UIKit, CoreImage | Submitted |
