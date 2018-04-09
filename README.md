@@ -22,6 +22,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Alessandro Izzo](https://github.com/Hantex9/)|[GitHub](https://github.com/Hantex9/PuzzlePipe) | [YouTube](https://youtu.be/SG972hlY8Ds) | UIKit, GameplayKit, AVFoundation| Submitted|
 |[Alessandro Minopoli](https://github.com/alex010x) | [GitHub](https://github.com/alex010x/HackNscape) | | SpriteKit, PlaygroundBook | Submitted |
 |[Alexandre Vassinievski](https://github.com/alexvassini)| [GitHub](https://github.com/alexvassini/ArDrawing) |  | UIKit, ARKit, SceneKit | Submitted |
+|[Alexis Aubry](https://github.com/alexaubry)| [GitHub](https://github.com/alexaubry/MLMOJI) | [YouTube](https://www.youtube.com/watch?v=Z7jdLrorctQ) | Core ML, Core Image, TensorFlow, Playground Book | Submitted |
 |[Ali Kheirkhah](https://github.com/alikheirkhah/WWDC2018-student-Ali/)| [GitHub](https://github.com/alikheirkhah/WWDC2018-student-Ali/) |  | UIKit, SpriteKit, ARKit | Submitted |
 |[Anıl Gürses](https://github.com/anlgrses)|[GitHub](https://github.com/anlgrses/wwdc2018submission)||UIKit, AVFoundation|Submitted|
 |[Anirudh Natarajan](https://github.com/aniNatarajan12/)| [GitHub](https://github.com/aniNatarajan12/RushToWWDC)| [Youtube](https://www.youtube.com/watch?v=IN3XOPIYWsY)| ARKit, SceneKit, SpriteKit, AVFoundation| Submitted|
