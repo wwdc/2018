@@ -57,7 +57,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Jason Idris](https://github.com/coffeeboo) | [GitHub](https://github.com/coffeeboo/WWDC18) | [Giphy](https://giphy.com/gifs/oOQWCqhvfrsmVTW6qc) | UIKit, SpriteKit, Core ML, Vision | Submitted |
 |[Javier de Martín](https://twitter.com/javierdemartin) | [GitHub](https://github.com/javierdemartin/WWDC18) | | UIKit, SceneKit & ARKit | Submitted | 
 |[Joel Rorseth](https://github.com/joelrorseth) | [GitHub](https://github.com/joelrorseth/World-Tour) | | UIKit, SpriteKit, PlaygroundSupport | Submitted |
-|Jonathon Derr|[Github] (https://github.com/jdogboy/WWDC-18-Submission) |[Youtube](https://youtu.be/yYlwYRZ-HC0) | SpriteKit, Appkit | Submitted|
+|Jonathon Derr|[GitHub](https://github.com/jdogboy/WWDC-18-Submission) |[YouTube](https://youtu.be/yYlwYRZ-HC0) | SpriteKit, Appkit | Submitted|
 |[Jordan Osterberg](https://github.com/JordanOsterberg/) | [GitHub](https://github.com/JordanOsterberg/WWDC) | [YouTube](https://www.youtube.com/watch?v=pt4cq_p6Img) | SpriteKit, SceneKit, ARKit, PlaygroundBooks, Accessibility | Submitted |
 |[Julian S](https://twitter.com/justdotJS) | [GitHub](https://github.com/justdotJS) | [YouTube](https://www.youtube.com/watch?v=Sxq3bxzBPwY) | AppKit, SpriteKit, AVFoundation |Submitted|
 |[Julio Brazil](https://github.com/JulioBBL) | [GitHub](https://github.com/JulioBBL/Playground) | | SpriteKit |Submitted|
