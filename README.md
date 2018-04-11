@@ -65,6 +65,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Jack Bruienne](https://github.com/MCJack123)||[Blog](https://jackmacwindows.tumblr.com)|Core ML, ARKit, SpriteKit, AVFoundation|Submitted|
 |[Jack Elms](https://github.com/elmo364)|[GitHub](https://github.com/elmo364/WWDC-CraigBot)| | SpriteKit, UIKit, AVFoundation, CoreGraphics | Submitted |
 |Jacky Yu| [GitHub](https://github.com/CaptainYukinoshitaHachiman/Lenses) | |UIKit| Submitted |
+|[Jacob Patel](https://github.com/jacobseanpatel)|[GitHub](https://github.com/jacobseanpatel/Foosball)| | SpriteKit, UIKit, AVFoundation | Submitted |
 |[Jai Bhavnani](https://twitter.com/jai_bhavnani) | [GitHub](https://github.com/jbhav24/wwdc18) | | UIKit, SceneKit, AVFoundation, Core Animation, UIGestures, Dispatch, Core Graphics | Submitted | 
 |[Jari Koopman](https://twitter.com/LotUDev) | [GitHub](https://github.com/MrLotU/WWDC18) | | UIKit, GameplayKit | |
 |[Jason Idris](https://github.com/coffeeboo) | [GitHub](https://github.com/coffeeboo/WWDC18) | [Giphy](https://giphy.com/gifs/oOQWCqhvfrsmVTW6qc) | UIKit, SpriteKit, Core ML, Vision | Submitted |
