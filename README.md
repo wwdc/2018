@@ -52,6 +52,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Ferdinand Loesch](https://github.com/ferdinandl007)|[GitHub](https://github.com/ferdinandl007/WWDC-project-2018)|| AVFoundation, CIDetector, SpriteKit, Cocoa|Submitted|
 |[Gautham Elango](https://github.com/gg2001)|[GitHub](https://github.com/gg2001/SwiftChain)|[YouTube](https://youtu.be/4i_TtI5YmCs)|UIKit| Submitted |
 |[Gennaro Amura](https://github.com/slade9220)||[YouTube](https://www.youtube.com/watch?v=hahbjaHiTOo)| UIKit, Playground Book| Submitted | 
+|[Geomar Bastiani](https://github.com/geomarb)|[GitHub ](https://github.com/geomarb/wwdc2018)|[YouTube](https://youtu.be/WpgWFSBuUa0)|SpriteKit|Submitted|
 |[Giovani Pereira](https://github.com/giovaninppc)|[GitHub](https://github.com/giovaninppc/SwiftPlaygrounds/tree/master/Hueco%20Mundo)||UIKit, SpriteKit| Submitted |
 |[Giovanni Bassolino](https://github.com/giangi0/) | | [YouTube](https://youtu.be/qjQM4c7tfRs) | SpriteKit, GameplayKit, UIKit, AVFoundation| Submitted |
 |[Giovanni Luigi Bruno](https://github.com/GiovanniLuigi)|[GitHub](https://github.com/GiovanniLuigi/DotsAndBoxesPlayground/tree/master)|[YouTube](https://www.youtube.com/watch?v=FIID-XjP4DQ&feature=youtu.be)|SpriteKit, Gameplay Kit, AVFoundation| Submitted |
