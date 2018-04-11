@@ -22,19 +22,24 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Alessandro Izzo](https://github.com/Hantex9/)|[GitHub](https://github.com/Hantex9/PuzzlePipe) | [YouTube](https://youtu.be/SG972hlY8Ds) | UIKit, GameplayKit, AVFoundation| Submitted|
 |[Alessandro Minopoli](https://github.com/alex010x) | [GitHub](https://github.com/alex010x/HackNscape) | | SpriteKit, PlaygroundBook | Submitted |
 |[Alexandre Vassinievski](https://github.com/alexvassini)| [GitHub](https://github.com/alexvassini/ArDrawing) |  | UIKit, ARKit, SceneKit | Submitted |
+|[Alexis Aubry](https://github.com/alexaubry)| [GitHub](https://github.com/alexaubry/MLMOJI) | [YouTube](https://www.youtube.com/watch?v=Z7jdLrorctQ) | Core ML, Core Image, TensorFlow, Playground Book | Submitted |
 |[Ali Kheirkhah](https://github.com/alikheirkhah/WWDC2018-student-Ali/)| [GitHub](https://github.com/alikheirkhah/WWDC2018-student-Ali/) |  | UIKit, SpriteKit, ARKit | Submitted |
+|[Amanda Southworth](https://github.com/thecodingone)| | | UIKit, CoreML, AVFoundation, Vision, Foundation | Submitted |
 |[Andreas Neusuess](https://github.com/Tantalum73/)|[GitHub](https://github.com/Tantalum73/WWDC18ScholarshipSubmission)||AVFoundation, UIKit, CoreAnimation, CoreImage|Submitted|
 |[Anıl Gürses](https://github.com/anlgrses)|[GitHub](https://github.com/anlgrses/wwdc2018submission)||UIKit, AVFoundation|Submitted|
 |[Anirudh Natarajan](https://github.com/aniNatarajan12/)| [GitHub](https://github.com/aniNatarajan12/RushToWWDC)| [Youtube](https://www.youtube.com/watch?v=IN3XOPIYWsY)| ARKit, SceneKit, SpriteKit, AVFoundation| Submitted|
 |[Antonio Zaitoun](https://github.com/Minitour/)|[GitHub](https://github.com/Minitour/Micro-Interface-Builder)| [YouTube](https://www.youtube.com/watch?v=G0yjMRrsG7c)| UIKit, SceneKit, CoreGraphics, CoreAnimation | Submitted|
+|[Arno Appenzeller](https://github.com/arnoappenzeller)|[GitHub](https://github.com/arnoappenzeller/WWC18-Scholarship-Submission)|| UIKit, PlaygroundBook | Submitted|
 |[Arved Viehweger](https://github.com/arvedviehweger)|[GitHub](https://github.com/arvedviehweger/WWDC2018/tree/master)| [YouTube](https://www.youtube.com/watch?v=A6qPTykNCCQ&lc=)| UIKit, SceneKit, AVFoundation | Submitted|
 |[Aulene De](https://github.com/Aulene/)|[GitHub](https://github.com/Aulene/CaptureTheAlien)| | SpriteKit | Submitted|
 |[Austin Fuller](https://github.com/AustinFuller/)|[GitHub](https://github.com/AustinFuller/WWDC2018Playground) | | UIKit, AVFoundation, CoreGraphics | Submitted |
+|[Bart Wesselink](https://github.com/bartwesselink)|[GitHub](https://github.com/bartwesselink/wwdc18-smart-cars) | [YouTube](https://youtu.be/DXJYjCuj7YI) | AVFoundation, SpriteKit, PlaygroundBooks | Submitted |
 |[Ben Emdon](https://github.com/BenEmdon)|[GitHub](https://github.com/BenEmdon/8-Bit-MusicMaker) | | UIKit, AVFoundation | Submitted |
-|[Bernardo Sarto de Lucena](https://github.com/bslucena)|[GitHub](https://github.com/bslucena/wwdc18) | | UIKit, SpriteKit | Submitted | 
+|[Bernardo Sarto de Lucena](https://github.com/bslucena)|[GitHub](https://github.com/bslucena/wwdc18) |[YouTube](https://youtu.be/oVV-3rXvtx4) | UIKit, SpriteKit | Submitted | 
 |[Bradley Mackey](https://github.com/bradleymackey)|[GitHub](https://github.com/bradleymackey/rsa-playground)|[YouTube](https://youtu.be/d36YmVfUD9s)| SpriteKit, SceneKit, GameplayKit, UIKit | Submitted |
 |[Bruno Chagas](https://github.com/bruno3chagas) | [GitHub](https://github.com/bruno3chagas/ShapeRave) | [YouTube](https://youtu.be/fM53qPnnk5M) | SpriteKit, UIKit | Submitted |
 |[Carlo Carpio](https://github.com/CarloCarpio93) | [GitHub](https://github.com/CarloCarpio93/ProjectTesla) | [Youtube](https://www.youtube.com/watch?v=bxd26oV6p48&t=16s)| SpriteKit, UIKit, Playground books | Submitted |
+|[Chip Beck](https://github.com/ch1pa/) | [GitHub](https://github.com/ch1pa/WWDC-2018-Scholarship-Application/) || UIKit, MapKit, AVKit, CoreGraphics | Submitted |
 |[Christian Schnorr](https://github.com/jenox/) | [GitHub](https://github.com/jenox/WWDC-2018-Bezier-Curves-in-Typography/) || CoreGraphics & CoreText | Submitted | 
 |[Collin DeWaters](https://github.com/ctdewaters) | [GitHub](https://github.com/ctdewaters/WWDC18-Scholarship-Submission) | [YouTube](https://www.youtube.com/watch?v=pjHS3-3j1xQ) | AppKit, SceneKit, AVFoundation | Submitted |
 |[Dalton Prescott](https://github.com/dustarion/)|[GitHub](https://github.com/dustarion/wwdc18)|| UIKit, SceneKit, CoreML, AVFoundation| Submitted |
@@ -44,8 +49,9 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Eduardo Yutaka Nakanishi](https://github.com/eduardoyutaka) | [GitHub](https://github.com/eduardoyutaka/magical-sketch) | [YouTube](https://www.youtube.com/watch?v=H1Jo0hcLpIE) | UIKit, CoreMotion | Submitted |
 |[Eliott Hauteclair](https://github.com/Eliottiosdevs/)|| | AVFoundation, UIKit | Submitted |
 |[Emannuel Carvalho](https://github.com/emannuelOC/)|[GitHub](https://github.com/emannuelOC/WWDC2018)|[YouTube](https://www.youtube.com/watch?v=o0N6a5QapB0&feature=youtu.be)| Vision, CALayer, Core Animation, AVCapture, UIKit | Submitted |
-|[Ferdinand Loesch](https://github.com/ferdinandl007)||| AVFoundation, CIDetector, SpriteKit, Cocoa||
+|[Ferdinand Loesch](https://github.com/ferdinandl007)|[GitHub](https://github.com/ferdinandl007/WWDC-project-2018)|| AVFoundation, CIDetector, SpriteKit, Cocoa|Submitted|
 |[Gautham Elango](https://github.com/gg2001)|[GitHub](https://github.com/gg2001/SwiftChain)|[YouTube](https://youtu.be/4i_TtI5YmCs)|UIKit| Submitted |
+|[Gennaro Amura](https://github.com/slade9220)||[YouTube](https://www.youtube.com/watch?v=hahbjaHiTOo)| UIKit, Playground Book| Submitted | 
 |[Giovani Pereira](https://github.com/giovaninppc)|[GitHub](https://github.com/giovaninppc/SwiftPlaygrounds/tree/master/Hueco%20Mundo)||UIKit, SpriteKit| Submitted |
 |[Giovanni Bassolino](https://github.com/giangi0/) | | [YouTube](https://youtu.be/qjQM4c7tfRs) | SpriteKit, GameplayKit, UIKit, AVFoundation| Submitted |
 |[Giovanni Luigi Bruno](https://github.com/GiovanniLuigi)|[GitHub](https://github.com/GiovanniLuigi/DotsAndBoxesPlayground/tree/master)|[YouTube](https://www.youtube.com/watch?v=FIID-XjP4DQ&feature=youtu.be)|SpriteKit, Gameplay Kit, AVFoundation| Submitted |
@@ -54,12 +60,13 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Harshita Arora](https://github.com/harshitaarora)|[GitHub](https://github.com/harshitaarora/Alice-in-codeLand)|[YouTube](https://youtu.be/X0fZRXtIpkM)|UIKit| Submitted |
 |[Hengyu Liu](https://github.com/a211212abc)|||UIKit, PlaygroundBooks| Submitted |
 |[Henry Gu](https://github.com/hg1722)|[GitHub](https://github.com/hg1722/mnist_invaders)||UIKit, SpriteKit, CoreML, AVFoundation| Submitted |
-|[Hugo Lundin](https://github.com/hugolundin)|||UIKit, PlaygroundBooks| Submitted |
+|[Hugo Lundin](https://github.com/hugolundin)|[GitHub](https://github.com/hugolundin/TuringMachines)||UIKit, PlaygroundBooks| Submitted |
 |[Igor Rinkovec](https://github.com/TheWildHorse)|[GitHub](https://github.com/TheWildHorse/GuillochePlayground)|[YouTube](https://www.youtube.com/watch?v=UzRLZKDSB0I)|SceneKit, UIKit, PlaygroundBooks| Submitted |
 |[Ilias Ennmouri](https://github.com/iIias)|[GitHub](https://github.com/iIias/Blastar-wwdc18/)|| GameplayKit, SpriteKit| Submitted |
 |[Jack Bruienne](https://github.com/MCJack123)||[Blog](https://jackmacwindows.tumblr.com)|Core ML, ARKit, SpriteKit, AVFoundation|Submitted|
 |[Jack Elms](https://github.com/elmo364)|[GitHub](https://github.com/elmo364/WWDC-CraigBot)| | SpriteKit, UIKit, AVFoundation, CoreGraphics | Submitted |
 |Jacky Yu| [GitHub](https://github.com/CaptainYukinoshitaHachiman/Lenses) | |UIKit| Submitted |
+|[Jacob Patel](https://github.com/jacobseanpatel)|[GitHub](https://github.com/jacobseanpatel/Foosball)| | SpriteKit, UIKit, AVFoundation | Submitted |
 |[Jai Bhavnani](https://twitter.com/jai_bhavnani) | [GitHub](https://github.com/jbhav24/wwdc18) | | UIKit, SceneKit, AVFoundation, Core Animation, UIGestures, Dispatch, Core Graphics | Submitted | 
 |[Jari Koopman](https://twitter.com/LotUDev) | [GitHub](https://github.com/MrLotU/WWDC18) | | UIKit, GameplayKit | |
 |[Jason Idris](https://github.com/coffeeboo) | [GitHub](https://github.com/coffeeboo/WWDC18) | [Giphy](https://giphy.com/gifs/oOQWCqhvfrsmVTW6qc) | UIKit, SpriteKit, Core ML, Vision | Submitted |
@@ -83,29 +90,33 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Marko Crnković](https://www.mbobpro.com)|[GitHub](https://github.com/chih98/wwdc2018)| [YouTube](https://youtu.be/TLk9B5GRLtM)|Accelerate, AVFoundation, SpriteKit|Submitted|
 |[Marcel Hagmann](http://marcelhagmann.de)||[YouTube](https://youtu.be/UIMMhYHxPxQ)| UIKit, AVFoundation, CAEmitterLayer, UIViewPropertyAnimator, CAKeyframeAnimation |Submitted|
 |[Mars Geldard](https://twitter.com/TheMartianLife)|[GitHub](https://github.com/TheMartianLife/WWDC-2018)| | UIKit, SpriteKit, PlaygroundBooks, AVFoundation |Submitted|
-|[Mattia Fonisto](https://about.me/uzarel)|[GitHub](https://github.com/Uzarel/Heart-of-Mathematics)|[YouTube](https://youtu.be/BiAqXCkpPA)|UIKit, SpriteKit, CoreGraphics|Submitted|
+|[Mattia Fonisto](https://about.me/uzarel)|[GitHub](https://github.com/Uzarel/Heart-of-Mathematics)|[YouTube](https://youtu.be/_BiAqXCkpPA)|UIKit, SpriteKit, CoreGraphics|Submitted|
 |[Mauricio Lorenzetti](https://github.com/mauricio-lorenzetti/)|[GitHub](https://github.com/mauricio-lorenzetti/Connecting-Dots-WWDC18)| | CoreAnimation, UIKit | Submitted|
 |[Mehul Mohan](https://twitter.com/mehulmpt/)|[GitHub](https://github.com/mehulmpt/wwdc2018)| [YouTube](https://www.youtube.com/watch?v=Hg0k5xvj68s) | SpriteKit, AVFoundation ||
 |[Mikey T. Krieger](https://www.helikes.it/) | [GitHub](https://github.com/mtkrieger/AstroYoga) | [YouTube](https://youtu.be/qE-lkiyXM1E) | Playground Books, UIKit, SceneKit, SpriteKit | Submitted |
 |[Ming Mai](https://twitter.com/mmdadao/) | [GitHub](https://github.com/kingcos/ML-Scratch-WWDC18) | | ARKit, CoreML, PlaugroundBooks, SceneKit, Vision | Submitted |
+|[Mingyuan Hu](https://github.com/miamiaH) | | [YouTube](https://www.youtube.com/watch?v=uEBkfUbR7Ys) | CoreGraphics, UIKit | Submitted | 
 |[Mohamed Salah](https://www.facebook.com/Abo.Salahh77) | [GitHub](https://github.com/MoHamEdSaLaHH/WWDC18-Scholarship-Submission) |[YouTube](https://www.youtube.com/watch?v=O5AdeSrqHw4) | UIKit, AVFoundation, SceneKit, CoreGraphics | Submitted |
 |[Monika Zielonka](https://github.com/emzielonka)| | [YouTube](https://youtu.be/Dmbo9deFmvI) | UIKit, Core Animation, Core Graphics | Submitted |
 |[Nicholas Grana](https://github.com/Nicholas714)|[GitHub](https://github.com/Nicholas714/WWDC-2018)| [YouTube](https://youtu.be/xpKNT1dRKks) | ARKit, SceneKit, SpriteKit | Submitted |
+|[Nirmit Patel](https://github.com/nap0017)| | | UIKit, ARKit, SceneKit, SpriteKit | Submitted |
 |[Omar Albeik](https://twitter.com/omaralbeik/)|[GitHub](https://github.com/omaralbeik/mnist-coreml)| [YouTube](https://www.youtube.com/watch?v=d-6gJKAojDY) | UIKit, CoreML, Keras | Submitted |
+|[Osama Naeem](https://github.com/Onaeem26)|[GitHub](https://github.com/Onaeem26/passcodewwdc)| [YouTube](https://www.youtube.com/watch?v=6OSWDy9NW90) | UIKit, CoreAnimation, CADisplayLink, UIBezierPath | Submitted |
 |Ozan Mirza| [GitHub](http://github.com/ozanmirza1/PaintPad-2.0) || UIKit | Submitted |
 |[Peter Simon](http://github.com/donleysimon)|[GitHub](http://github.com/donleysimon/WWDC-2018-Colorless)|| UIKit, CoreImage | Submitted |
-|[Qingyang Hu](https://github.com/mmlmml1)| | |SceneKit, SpriteKit, ARKit, UIKit, PlaygroundBooks| Submitted|
+|[Qingyang Hu](https://github.com/mmlmml1)| [Github](https://github.com/mmlmml1/Waves) | |SceneKit, SpriteKit, ARKit, UIKit, PlaygroundBooks| Submitted|
 |[Raffael Kaehn](https://github.com/vortycon)|[GitHub](https://github.com/vortycon/WWDC18)| [YouTube](https://youtu.be/KFWYJvmqPio) | UIKit, SceneKit | Submitted |
 |[Răzvan Geangu](https://github.com/razvangeangu)|[GitHub](https://github.com/razvangeangu/WWDC18-SpaceWord)| | SpriteKit, UIKit, AVFoundation | Submitted|
 |[Renata Faria](https://github.com/xReee)|[GitHub](https://github.com/xReee/wwdc2018)|[YouTube](https://www.youtube.com/watch?v=YHBSvNmBFBY&t)| UIKit, AVFoundation, Accessibility, NotificationCenter, UIGestures | Submitted|
 |[Ricardo Ferreira](https://github.com/RicardoFelipeFerreira)| |[YouTube](https://youtu.be/u_ohynGdFIo)| UIKit, ARKit, SpriteKit, SceneKit, AVFoundation | Submitted|
-|[Ricardo V. Del Frari](https://github.com/ricardovdf)|[GitHub](https://github.com/ricardovdf/wwdc2018)||SpriteKit| Submitted|
+|[Ricardo V. Del Frari](https://github.com/ricardovdf)|[GitHub](https://github.com/ricardovdf/wwdc2018)|[YouTube](https://www.youtube.com/watch?v=-KsAopkgNXM&feature=youtu.be)|SpriteKit| Submitted|
 |Ryan Klohr| | | GameKit, AVFoundation, SpriteKit | Submitted |
 |[Sam Eckert](https://sam0711er.com) | | [YouTube](https://youtu.be/vEyxsDpCYdY) | ARKit, SceneKit, UIKit (+Dynamics), AVKit, AVFoundation | Submitted |
 |[Samay Shamdasani](https://shamdasani.org) | [GitHub](https://github.com/shamdasani/SwiftFrameworks) | [YouTube](https://www.youtube.com/watch?v=b3Huqtw2log) | SceneKit, Core Animation, Core Graphics, UIKit, AVFoundation, Vision | Submitted |
 |Sanjay Soni | | |GameKit, GameplayKit, SpriteKit, UIKit| | 
 |[Sergen Gönenç](https://github.com/sergendev)|[GitHub](https://github.com/sergendev/Swiftgaea)| | UIKit, CoreGraphics | Submitted |
 |[Sophia Kalanovska](https://github.com/SophiaKalanovska)|[GitHub](https://github.com/SophiaKalanovska/WWDC18)| |XCPlayground, UIKit, GameplayKit, AVFoundation | Submitted|
+|[TJ Ledwith](https://github.com/makertech81)|[GitHub](https://github.com/makertech81/WWDC_2018)| |UIKit, SpriteKit, AVFoundation, Gesture Recognition | Submitted|
 |[Valmir Massoni Jr.](https://github.com/vrjunior)|[GitHub](https://github.com/vrjunior/Metamorphosis)|[YouTube](https://youtu.be/r2Xgh0uxGe0)|SceneKit, AVFoundation|Submitted|
 |[Veit Progl](https://twitter.com/VoxelVoxels)|[GitHub](https://github.com/Veeit/WWDC_2018)||UIKit, CoreML, SceneKit, ARKit|Submitted|
 |[Victor Kreniski](https://twitter.com/VictorKreniski)|[GitHub](https://github.com/krevi27/WWDC18)|[YouTube](https://www.youtube.com/watch?v=P17qt8iYJ_4)| SpriteKit, AVFoundation | Submitted |
