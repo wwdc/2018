@@ -51,8 +51,8 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Guillermo Cique](https://github.com/GuiyeC) | [GitHub](https://github.com/GuiyeC/WWDC-2018) | [YouTube](https://youtu.be/MtLMERAibp8) | UIKit, Playground Books, SpriteKit | Submitted |
 |[Gustavo Crivelli](https://github.com/gmCrivelli)|[GitHub](https://github.com/gmCrivelli/Day-in-the-Park-WWDC18)||UIKit, SpriteKit| Submitted |
 |[Harshita Arora](https://github.com/harshitaarora)|[GitHub](https://github.com/harshitaarora/Alice-in-codeLand)|[YouTube](https://youtu.be/X0fZRXtIpkM)|UIKit| Submitted |
-|[Hengyu Zhou](https://github.com/Hengyu) | | [YouTube](https://www.youtube.com/watch?v=cZHQ5dmkglA) | ARKit, CoreGraphics, SceneKit, UIKit | Submitted | 
 |[Hengyu Liu](https://github.com/a211212abc)|||UIKit, PlaygroundBooks| Submitted |
+|[Hengyu Zhou](https://github.com/Hengyu) | | [YouTube](https://www.youtube.com/watch?v=cZHQ5dmkglA) | ARKit, CoreGraphics, SceneKit, UIKit | Submitted | 
 |[Henry Gu](https://github.com/hg1722)|[GitHub](https://github.com/hg1722/mnist_invaders)||UIKit, SpriteKit, CoreML, AVFoundation| Submitted |
 |[Hugo Lundin](https://github.com/hugolundin)|||UIKit, PlaygroundBooks| Submitted |
 |[Igor Rinkovec](https://github.com/TheWildHorse)|[GitHub](https://github.com/TheWildHorse/GuillochePlayground)|[YouTube](https://www.youtube.com/watch?v=UzRLZKDSB0I)|SceneKit, UIKit, PlaygroundBooks| Submitted |
