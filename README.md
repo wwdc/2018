@@ -49,6 +49,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Eduardo Yutaka Nakanishi](https://github.com/eduardoyutaka) | [GitHub](https://github.com/eduardoyutaka/magical-sketch) | [YouTube](https://www.youtube.com/watch?v=H1Jo0hcLpIE) | UIKit, CoreMotion | Submitted |
 |[Eliott Hauteclair](https://github.com/Eliottiosdevs/)|| | AVFoundation, UIKit | Submitted |
 |[Emannuel Carvalho](https://github.com/emannuelOC/)|[GitHub](https://github.com/emannuelOC/WWDC2018)|[YouTube](https://www.youtube.com/watch?v=o0N6a5QapB0&feature=youtu.be)| Vision, CALayer, Core Animation, AVCapture, UIKit | Submitted |
+|[Francesco Trusiano](https://twitter.com/checcot) | [GitHub](https://github.com/FrancescoTr/WWDC-2018-Scholarship-Submission/) | [YouTube](https://youtu.be/XqmbZuS13Lo) | SpriteKit, UIKit, PlaygroundBooks | Submitted |
 |[Ferdinand Loesch](https://github.com/ferdinandl007)|[GitHub](https://github.com/ferdinandl007/WWDC-project-2018)|| AVFoundation, CIDetector, SpriteKit, Cocoa|Submitted|
 |[Gautham Elango](https://github.com/gg2001)|[GitHub](https://github.com/gg2001/SwiftChain)|[YouTube](https://youtu.be/4i_TtI5YmCs)|UIKit| Submitted |
 |[Gennaro Amura](https://github.com/slade9220)||[YouTube](https://www.youtube.com/watch?v=hahbjaHiTOo)| UIKit, Playground Book| Submitted | 
