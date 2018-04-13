@@ -50,7 +50,12 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Eduardo Yutaka Nakanishi](https://github.com/eduardoyutaka) | [GitHub](https://github.com/eduardoyutaka/magical-sketch) | [YouTube](https://www.youtube.com/watch?v=H1Jo0hcLpIE) | UIKit, CoreMotion | Submitted |
 |[Eliott Hauteclair](https://github.com/Eliottiosdevs/)|| | AVFoundation, UIKit | Submitted |
 |[Emannuel Carvalho](https://github.com/emannuelOC/)|[GitHub](https://github.com/emannuelOC/WWDC2018)|[YouTube](https://www.youtube.com/watch?v=o0N6a5QapB0&feature=youtu.be)| Vision, CALayer, Core Animation, AVCapture, UIKit | Submitted |
+|[Erik Martin](https://github.com/techgeek1129)|[GitHub](https://github.com/techgeek1129/WWDC-2018-Scholarship-Submission)| | SpriteKit, Cocoa | Submitted | 
+|[Erik Maximilian Martens](https://www.linkedin.com/in/erik-maximilian-martens-212280a1/)| [GitHub](https://github.com/erikmartens/WWDC-2018-Scholarship-Submission) |  | UIKit, SpriteKit | Submitted|
 |[Ferdinand Loesch](https://github.com/ferdinandl007)|[GitHub](https://github.com/ferdinandl007/WWDC-project-2018)|| AVFoundation, CIDetector, SpriteKit, Cocoa|Submitted|
+| [Florian Pfisterer](https://github.com/FlorianPfisterer | [GitHub](https://github.com/FlorianPfisterer/wwdc18-playground) | CoreGraphics, CoreAnimation, UIKit, CoreText | Submitted |
+|[Francesc Bruguera](https://github.com/ifrins)| [GitHub](https://github.com/ifrins/wwdc-2018-atc-playground/) | [YouTube](https://youtu.be/pWUEkQliDcc) | UIKit, CoreGraphics, PlaygroundBooks | Submitted |
+|[Francesco Trusiano](https://twitter.com/checcot) | [GitHub](https://github.com/FrancescoTr/WWDC-2018-Scholarship-Submission/) | [YouTube](https://youtu.be/XqmbZuS13Lo) | SpriteKit, UIKit, PlaygroundBooks | Submitted |
 |[Gautham Elango](https://github.com/gg2001)|[GitHub](https://github.com/gg2001/SwiftChain)|[YouTube](https://youtu.be/4i_TtI5YmCs)|UIKit| Submitted |
 |[Gennaro Amura](https://github.com/slade9220)||[YouTube](https://www.youtube.com/watch?v=hahbjaHiTOo)| UIKit, Playground Book| Submitted | 
 |[Geomar Bastiani](https://github.com/geomarb)|[GitHub ](https://github.com/geomarb/wwdc2018)|[YouTube](https://youtu.be/WpgWFSBuUa0)|SpriteKit|Submitted|
@@ -126,12 +131,14 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Victor Kreniski](https://twitter.com/VictorKreniski)|[GitHub](https://github.com/krevi27/WWDC18)|[YouTube](https://www.youtube.com/watch?v=P17qt8iYJ_4)| SpriteKit, AVFoundation | Submitted |
 |[Vincenzo Aceto](https://github.com/vinzaceto)|[GitHub](https://github.com/vinzaceto/WWDCPlayground)|[YouTube](https://youtu.be/cvkEDOhAg4w)| UIKit, AVFoundation, Vision, CoreML | Submitted |
 |[Walter Zhu](https://www.walterzhu.com/)|||UIKit, CoreGraphics, PlaygroundBooks| Submitted|
+|[Wei Dai](https://github.com/zjdavid)|[GitHub](https://github.com/zjdavid/Trajector)||UIKit Dynamics, GameplayKit, AVFoundation|Submitted|
 |[Weiran Du](http://www.williamdu.space/)|||UIKit, CoreGraphics| Submitted|
 |William Taylor| | [YouTube](https://youtu.be/qXgyTGIG_Xw) | SpriteKit, ARKit, AVFoundation, UIKit | Submitted | 
 |[Yash Banka](https://github.com/yash-banka/)|[GitHub](https://github.com/yash-banka/WWDC18)||UIKit, Foundation, AVFoundation, PlaygroundBook|Submitted|
 |[Yichen Cao](https://schemetrical.github.io)|[GitHub](https://github.com/Schemetrical)|| UIKit, CoreML |Submitted|
 |[Yogesh Kohli](https://github.com/yogesh2209)|[GitHub](https://github.com/yogesh2209/YPad-SwiftPlaygroundBook)| [YouTube](https://www.youtube.com/watch?v=SD5_bKDZiOk&t=3s) | UIKit, Core Animation, AVFoundation | Submitted |
 |[Yongkang Chen](https://twitter.com/iWeslie)|[GitHub](https://github.com/iWeslie)|[YouTube](https://youtu.be/nokdtApjAsg)| UIKit, QuartzCore, CoreGraphics, Dispatch, Foundation |Submitted|
+|[Yuta Saito](https://twitter.com/kateinoigakukun)|[GitHub](https://github.com/kateinoigakukun/wwdc-2018)|| UIKit, Foundation |Submitted|
 |[Zach Knox](https://twitter.com/zmknox) | [Github](https://github.com/zmknox/WWDC18-Scholarship-Application) | [YouTube](https://youtu.be/Kl4ZJdD8dkY) | SpriteKit | Submitted |
 |[Zach Simone](https://twitter.com/zachsimone)|[GitHub](https://github.com/zachsimone/WWDC18-Insulin-Pump-Simulator)||UIKit|Submitted|
 |[Zhang Bozheng](https://github.com/zbz-lvlv)|[GitHub](https://github.com/zbz-lvlv/Chemistry_WWDC18)|[YouTube](https://youtu.be/IKefnNeZKf4)|SpriteKit, AVFoundation| | 
