@@ -43,7 +43,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Jack Elms](https://github.com/elmo364/WWDC-CraigBot)|||UIKit, CoreGraphics, SpriteKit, AVFoundation|Submitted|
 |[Jai Bhavnani](https://twitter.com/jai_bhavnani) | [GitHub](https://github.com/jbhav24/wwdc18) | | UIKit, SceneKit, AVFoundation, Playground Support, Core Animation, UIGestures, Dispatch, Core Graphics | Submitted | 
 |[Jari Koopman](https://twitter.com/LotUDev) | [GitHub](https://github.com/MrLotU/WWDC18) | | UIKit, Playground Support, GameplayKit | |
-|[Jason Idris](https://github.com/coffeeboo) | [GitHub](https://github.com/coffeeboo/WWDC18) | [Giphy](https://giphy.com/gifs/oOQWCqhvfrsmVTW6qc) | UIKit, SpriteKit, Core ML, Vision | Submitted |
+|[Jason Idris](https://github.com/coffeeboo) | [GitHub](https://github.com/coffeeboo/WWDC18) | [Giphy](https://giphy.com/gifs/oOQWCqhvfrsmVTW6qc) | UIKit, SpriteKit, Core ML, Vision | Rejected |
 |[Javier de Martín](https://twitter.com/javierdemartin) | [GitHub](https://github.com/javierdemartin/WWDC18) | | UIKit, SceneKit & ARKit | Submitted | 
 |Jonathon Derr|None Yet|[Youtube](https://youtu.be/yYlwYRZ-HC0) | SpriteKit, Appkit | Submitted|
 |[Jordan Osterberg](https://github.com/JordanOsterberg/) | [GitHub](https://github.com/JordanOsterberg/WWDC) | [YouTube](https://www.youtube.com/watch?v=pt4cq_p6Img) | SpriteKit, SceneKit, ARKit, PlaygroundBooks, Accessibility | Submitted |
