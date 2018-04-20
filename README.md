@@ -38,7 +38,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Bart Wesselink](https://github.com/bartwesselink)|[GitHub](https://github.com/bartwesselink/wwdc18-smart-cars) | [YouTube](https://youtu.be/DXJYjCuj7YI) | AVFoundation, SpriteKit, PlaygroundBooks | Submitted |
 |[Ben Emdon](https://github.com/BenEmdon)|[GitHub](https://github.com/BenEmdon/8-Bit-MusicMaker) | | UIKit, AVFoundation | Submitted |
 |[Bernardo Sarto de Lucena](https://github.com/bslucena)|[GitHub](https://github.com/bslucena/wwdc18) |[YouTube](https://youtu.be/oVV-3rXvtx4) | UIKit, SpriteKit | Submitted | 
-|[Bradley Mackey](https://github.com/bradleymackey)|[GitHub](https://github.com/bradleymackey/rsa-playground)|[YouTube](https://youtu.be/d36YmVfUD9s)| SpriteKit, SceneKit, GameplayKit, UIKit | Submitted |
+|[Bradley Mackey](https://github.com/bradleymackey)|[GitHub](https://github.com/bradleymackey/rsa-playground)|[YouTube](https://youtu.be/d36YmVfUD9s)| SpriteKit, SceneKit, GameplayKit, UIKit | Accepted |
 |[Bruno Chagas](https://github.com/bruno3chagas) | [GitHub](https://github.com/bruno3chagas/ShapeRave) | [YouTube](https://youtu.be/fM53qPnnk5M) | SpriteKit, UIKit | Submitted |
 |[Carlo Carpio](https://github.com/CarloCarpio93) | [GitHub](https://github.com/CarloCarpio93/ProjectTesla) | [Youtube](https://www.youtube.com/watch?v=bxd26oV6p48&t=16s)| SpriteKit, UIKit, Playground books | Submitted |
 |[Chip Beck](https://github.com/ch1pa/) | [GitHub](https://github.com/ch1pa/WWDC-2018-Scholarship-Application/) || UIKit, MapKit, AVKit, CoreGraphics | Submitted |
