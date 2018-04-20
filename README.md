@@ -114,6 +114,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Mohamed Salah](https://www.facebook.com/Abo.Salahh77) | [GitHub](https://github.com/MoHamEdSaLaHH/WWDC18-Scholarship-Submission) |[YouTube](https://www.youtube.com/watch?v=O5AdeSrqHw4) | UIKit, AVFoundation, SceneKit, CoreGraphics | Submitted |
 |[Monika Zielonka](https://github.com/emzielonka)| | [YouTube](https://youtu.be/Dmbo9deFmvI) | UIKit, Core Animation, Core Graphics | Submitted |
 |[Nicholas Grana](https://github.com/Nicholas714)|[GitHub](https://github.com/Nicholas714/WWDC-2018)| [YouTube](https://youtu.be/xpKNT1dRKks) | ARKit, SceneKit, SpriteKit | Submitted |
+|[Nikolas Ioannou](https://github.com/nikolasioannou/)| []() |[]()| UIKit, CoreGraphics | Accepted |
 |[Nils Leif Fischer](https://github.com/nilsleiffischer)| [GitHub](https://github.com/nilsleiffischer/gravitational-waves-playground) | | SceneKit, Metal | Submitted |
 |[Nirmit Patel](https://github.com/nap0017)| | | UIKit, ARKit, SceneKit, SpriteKit | Submitted |
 |[Omar Albeik](https://twitter.com/omaralbeik/)|[GitHub](https://github.com/omaralbeik/mnist-coreml)| [YouTube](https://www.youtube.com/watch?v=d-6gJKAojDY) | UIKit, CoreML, Keras | Submitted |
