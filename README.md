@@ -26,6 +26,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Alexis Aubry](https://github.com/alexaubry)| [GitHub](https://github.com/alexaubry/MLMOJI) | [YouTube](https://www.youtube.com/watch?v=Z7jdLrorctQ) | Core ML, Core Image, TensorFlow, Playground Book | Submitted |
 |[Ali Kheirkhah](https://github.com/alikheirkhah/WWDC2018-student-Ali/)| [GitHub](https://github.com/alikheirkhah/WWDC2018-student-Ali/) |  | UIKit, SpriteKit, ARKit | Submitted |
 |[Amanda Southworth](https://github.com/thecodingone)| | | UIKit, CoreML, AVFoundation, Vision, Foundation | Submitted |
+|[Amit Kalra](https://github.com/AMITNKALRA)|[GitHub](https://github.com/AMITNKALRA/WWDC--18-Playground--Student-Scholarship-)| [YouTube](https://www.youtube.com/watch?v=_5lBBduQzLo) | UIKit, AVFoundation, Gesture Recognizer | Accepted|
 |[Andreas Neusuess](https://github.com/Tantalum73/)|[GitHub](https://github.com/Tantalum73/WWDC18ScholarshipSubmission)||AVFoundation, UIKit, CoreAnimation, CoreImage|Submitted|
 |[Anıl Gürses](https://github.com/anlgrses)|[GitHub](https://github.com/anlgrses/wwdc2018submission)||UIKit, AVFoundation|Submitted|
 |[Anirudh Natarajan](https://github.com/aniNatarajan12/)| [GitHub](https://github.com/aniNatarajan12/RushToWWDC)| [Youtube](https://www.youtube.com/watch?v=IN3XOPIYWsY)| ARKit, SceneKit, SpriteKit, AVFoundation| Submitted|
