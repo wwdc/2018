@@ -130,6 +130,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |Sanjay Soni | | |GameKit, GameplayKit, SpriteKit, UIKit| | 
 |[Sergen Gönenç](https://github.com/sergendev)|[GitHub](https://github.com/sergendev/Swiftgaea)| | UIKit, CoreGraphics | Submitted |
 |[Sophia Kalanovska](https://github.com/SophiaKalanovska)|[GitHub](https://github.com/SophiaKalanovska/WWDC18)| |XCPlayground, UIKit, GameplayKit, AVFoundation | Submitted|
+|[Soroush Shahi](http://faderani.ir)| | | SpriteKit, GamePlayKit, AVFoundation | Submitted |
 |[TJ Ledwith](https://github.com/makertech81)|[GitHub](https://github.com/makertech81/WWDC_2018)| |UIKit, SpriteKit, AVFoundation, Gesture Recognition | Submitted|
 |[Valmir Massoni Jr.](https://github.com/vrjunior)|[GitHub](https://github.com/vrjunior/Metamorphosis)|[YouTube](https://youtu.be/r2Xgh0uxGe0)|SceneKit, AVFoundation|Submitted|
 |[Veit Progl](https://twitter.com/VoxelVoxels)|[GitHub](https://github.com/Veeit/WWDC_2018)||UIKit, CoreML, SceneKit, ARKit|Submitted|
