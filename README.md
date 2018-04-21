@@ -84,6 +84,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Jari Koopman](https://twitter.com/LotUDev) | [GitHub](https://github.com/MrLotU/WWDC18) | | UIKit, GameplayKit |Submitted|
 |[Jason Idris](https://github.com/coffeeboo) | [GitHub](https://github.com/coffeeboo/WWDC18) | [Giphy](https://giphy.com/gifs/oOQWCqhvfrsmVTW6qc) | UIKit, SpriteKit, Core ML, Vision | Submitted |
 |[Javier de Martín](https://twitter.com/javierdemartin) | [GitHub](https://github.com/javierdemartin/WWDC18) | | UIKit, SceneKit & ARKit | Submitted | 
+|[Jay Lees](https://github.com/jaylees14) | [GitHub](https://github.com/jaylees14/WWDC18) | | UIKit, SceneKit, ARKit | Accepted |
 |[Joel Rorseth](https://github.com/joelrorseth) | [GitHub](https://github.com/joelrorseth/World-Tour) | | UIKit, SpriteKit, | Accepted |
 |Jonathon Derr|None Yet|[Youtube](https://youtu.be/yYlwYRZ-HC0) | SpriteKit, Appkit | Accepted|
 |[Jordan Osterberg](https://github.com/JordanOsterberg/) | [GitHub](https://github.com/JordanOsterberg/WWDC) | [YouTube](https://www.youtube.com/watch?v=pt4cq_p6Img) | SpriteKit, SceneKit, ARKit, PlaygroundBooks, Accessibility | Submitted |
