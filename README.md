@@ -52,7 +52,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[David Nadoba](https://github.com/dnadoba) | [GitHub](https://github.com/dnadoba/games-and-math-playgroundbook) | [YouTube](https://youtu.be/95x6WlrhlG4) | SpriteKit, UIKit | Submitted |
 |[Dowland Aiello](https://github.com/dowlandaiello/)|[GitHub](https://github.com/dowlandaiello/Pop)| [YouTube](https://youtu.be/MWhHSGbS3gM) | AppKit, SpriteKit, Foundation | Submitted|
 |[Eduardo Yutaka Nakanishi](https://github.com/eduardoyutaka) | [GitHub](https://github.com/eduardoyutaka/magical-sketch) | [YouTube](https://www.youtube.com/watch?v=H1Jo0hcLpIE) | UIKit, CoreMotion | Submitted |
-|[Eliott Hauteclair](https://github.com/Eliottiosdevs/)|| | AVFoundation, UIKit | Submitted |
+|[Eliott Hauteclair](https://github.com/Eliottiosdevs/)|| | AVFoundation, UIKit | Rejected |
 |[Emannuel Carvalho](https://github.com/emannuelOC/)|[GitHub](https://github.com/emannuelOC/WWDC2018)|[YouTube](https://www.youtube.com/watch?v=o0N6a5QapB0&feature=youtu.be)| Vision, CALayer, Core Animation, AVCapture, UIKit | Submitted |
 |[Erick Borges](https://github.com/ericklborges)|[GitHub](https://github.com/ericklborges/Animandalas)|[YouTube](https://www.youtube.com/watch?v=ljRl9g29zg0&feature=youtu.be)|Core Graphics| Accepted |
 |[Erik Martin](https://github.com/techgeek1129)|[GitHub](https://github.com/techgeek1129/WWDC-2018-Scholarship-Submission)| | SpriteKit, Cocoa | Submitted | 
