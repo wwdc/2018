@@ -91,7 +91,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Julio Brazil](https://github.com/JulioBBL) | [GitHub](https://github.com/JulioBBL/Playground) | | SpriteKit |Submitted|
 |[Kamil Kosowski](https://twitter.com/KKosovsky)|| [YouTube](https://www.youtube.com/watch?v=y74i_7dIZeI) |UIKit, CoreGraphics, CoreAnimation| Submitted | 
 |[Klemens Strasser](https://twitter.com/klemensstrasser)|[GitHub](https://github.com/KlemensStrasser/BlindspotPlayground/) || Accessibility, SpriteKit, AVFoundation | Submitted | 
-|[Kuixi Song](https://github.com/songkuixi)|[GitHub](https://github.com/songkuixi/ARTargetShooting) | [YouTube](https://www.youtube.com/watch?v=mMFkfY6NURs) | SceneKit, ARKit, AudioToolBox | Submitted | 
+|[Kuixi Song](https://github.com/songkuixi)|[GitHub](https://github.com/songkuixi/ARTargetShooting) |[YouTube](https://www.youtube.com/watch?v=mMFkfY6NURs)| SceneKit, ARKit, AudioToolBox, PlaygroundSupport| Accepted | 
 |[Kyle Spadaro](https://twitter.com/kylespadaro)|[GitHub](https://github.com/kylespadaro2/WWDC/tree/master/2018) | |AVFoundation, GameplayKit, SpriteKit, UIKit|Accepted| 
 |[Lalo Martnez](https://twitter.com/L__A__L__O)|[GitHub](https://github.com/LaloMrtnz/Miles) | [YouTube](https://www.youtube.com/watch?v=gX_dBSTE-cE)|AudioToolbox, AVFoundation, MIDI, SpriteKit|Submitted | 
 |[Lars Schwegmann](https://twitter.com/larsschwegmann)|[GitHub](https://github.com/larsschwegmann/WWDC18-Scholarship-Submission) | |SpriteKit, GampleyKit, AppKit, CoreGraphics |Submitted |
