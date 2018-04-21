@@ -79,7 +79,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Ilias Ennmouri](https://github.com/iIias)|[GitHub](https://github.com/iIias/Blastar-wwdc18/)|| GameplayKit, SpriteKit| Submitted |
 |[Jack Bruienne](https://github.com/MCJack123)||[Blog](https://jackmacwindows.tumblr.com)|Core ML, ARKit, SpriteKit, AVFoundation|Submitted|
 |[Jack Elms](https://github.com/elmo364)|[GitHub](https://github.com/elmo364/WWDC-CraigBot)| | SpriteKit, UIKit, AVFoundation, CoreGraphics | Accepted |
-|Jacky Yu| [GitHub](https://github.com/CaptainYukinoshitaHachiman/Lenses) | |UIKit| Submitted |
+|[Jacky Yu](https://github.com/CaptainYukinoshitaHachiman)| [GitHub](https://github.com/CaptainYukinoshitaHachiman/Lenses) | |UIKit| Rejected |
 |[Jacob Patel](https://github.com/jacobseanpatel)|[GitHub](https://github.com/jacobseanpatel/Foosball)| | SpriteKit, UIKit, AVFoundation | Submitted |
 |[Jai Bhavnani](https://twitter.com/jai_bhavnani) | [GitHub](https://github.com/jbhav24/wwdc18) | | UIKit, SceneKit, AVFoundation, Core Animation, UIGestures, Dispatch, Core Graphics | Submitted | 
 |[Jari Koopman](https://twitter.com/LotUDev) | [GitHub](https://github.com/MrLotU/WWDC18) | | UIKit, GameplayKit |Submitted|
