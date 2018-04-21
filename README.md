@@ -155,3 +155,4 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Zach Simone](https://twitter.com/zachsimone)|[GitHub](https://github.com/zachsimone/WWDC18-Insulin-Pump-Simulator)||UIKit|Submitted|
 |[Zhang Bozheng](https://github.com/zbz-lvlv)|[GitHub](https://github.com/zbz-lvlv/Chemistry_WWDC18)|[YouTube](https://youtu.be/IKefnNeZKf4)|SpriteKit, AVFoundation|Submitted| 
 |[Zhixing Zhang](https://www.neoto.xin/)| [GitHub](https://github.com/Neotoxin4365/WWDC18) | [YouTube](https://youtu.be/vfzuN8sozR0) | UIKit, CoreAnimation, CoreGraphics, Carthage | Rejected |
+|[洪浩东](https://www.scauos.xin/)| [GitHub](https://github.com/scauos/WWDC18-Scholarship) | [YouTube](https://www.youtube.com/watch?v=_axv3XeIfuw&t=193s) | UIKit, CoreMotion, SceneKit, SpriteKit, PlaygroundBook | Accpeted |
