@@ -131,7 +131,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Renan Silveira](https://github.com/rnnsilveira) | [GitHub](https://github.com/rnnsilveira/SolarSystSimulatorWWDC2018) || SpriteKit, UIKit | Submitted |
 |[Renata Faria](https://github.com/xReee)|[GitHub](https://github.com/xReee/wwdc2018)|[YouTube](https://www.youtube.com/watch?v=YHBSvNmBFBY&t)| UIKit, AVFoundation, Accessibility, NotificationCenter, UIGestures | Submitted|
 |[Ricardo Ferreira](https://github.com/RicardoFelipeFerreira)| |[YouTube](https://youtu.be/u_ohynGdFIo)| UIKit, ARKit, SpriteKit, SceneKit, AVFoundation | Accepted |
-|[Ricardo V. Del Frari](https://github.com/ricardovdf)|[GitHub](https://github.com/ricardovdf/wwdc2018)|[YouTube](https://www.youtube.com/watch?v=-KsAopkgNXM&feature=youtu.be)|SpriteKit| Submitted|
+|[Ricardo V. Del Frari](https://github.com/ricardovdf)|[GitHub](https://github.com/ricardovdf/wwdc2018)|[YouTube](https://www.youtube.com/watch?v=-KsAopkgNXM&feature=youtu.be)|SpriteKit| Rejected|
 |[Roland Horváth](https://rolandhorvath.hu)|[GitHub](https://github.com/hroland/wwdc18)|[YouTube](https://www.youtube.com/watch?v=19DRxB3yxy4)| ARKit, SceneKit, UIKit, Speech | Accepted |
 |Ryan Klohr| | | GameKit, AVFoundation, SpriteKit | Rejected |
 |[Sam Eckert](https://sam0711er.com) | | [YouTube](https://youtu.be/vEyxsDpCYdY) | ARKit, SceneKit, UIKit (+Dynamics), AVKit, AVFoundation | Rejected |
