@@ -61,7 +61,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Florian Pfisterer](https://github.com/FlorianPfisterer) | [GitHub](https://github.com/FlorianPfisterer/wwdc18-playground) || CoreGraphics, CoreAnimation, UIKit, CoreText | Submitted |
 |[Francesc Bruguera](https://github.com/ifrins)| [GitHub](https://github.com/ifrins/wwdc-2018-atc-playground/) | [YouTube](https://youtu.be/pWUEkQliDcc) | UIKit, CoreGraphics, PlaygroundBooks | Submitted |
 |[Francesco Trusiano](https://twitter.com/checcot) | [GitHub](https://github.com/FrancescoTr/WWDC-2018-Scholarship-Submission/) | [YouTube](https://youtu.be/XqmbZuS13Lo) | SpriteKit, UIKit, PlaygroundBooks | Submitted |
-|[Gautham Elango](https://github.com/gg2001)|[GitHub](https://github.com/gg2001/SwiftChain)|[YouTube](https://youtu.be/4i_TtI5YmCs)|UIKit| Submitted |
+|[Gautham Elango](https://github.com/gg2001)|[GitHub](https://github.com/gg2001/SwiftChain)|[YouTube](https://youtu.be/4i_TtI5YmCs)|UIKit| Rejected |
 |[Gennaro Amura](https://github.com/slade9220)||[YouTube](https://www.youtube.com/watch?v=hahbjaHiTOo)| UIKit, Playground Book| Submitted | 
 |[Geomar Bastiani](https://github.com/geomarb)|[GitHub ](https://github.com/geomarb/wwdc2018)|[YouTube](https://youtu.be/WpgWFSBuUa0)|SpriteKit|Submitted|
 |[Giovani Pereira](https://github.com/giovaninppc)|[GitHub](https://github.com/giovaninppc/SwiftPlaygrounds/tree/master/Hueco%20Mundo)||UIKit, SpriteKit| Submitted |
