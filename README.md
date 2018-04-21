@@ -116,7 +116,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Nicholas Grana](https://github.com/Nicholas714)|[GitHub](https://github.com/Nicholas714/WWDC-2018)| [YouTube](https://youtu.be/xpKNT1dRKks) | ARKit, SceneKit, SpriteKit | Accepted |
 |[Nils Leif Fischer](https://github.com/nilsleiffischer)| [GitHub](https://github.com/nilsleiffischer/gravitational-waves-playground) | | SceneKit, Metal | Submitted |
 |[Nirmit Patel](https://github.com/nap0017)| | | UIKit, ARKit, SceneKit, SpriteKit | Submitted |
-|[Omar Albeik](https://twitter.com/omaralbeik/)|[GitHub](https://github.com/omaralbeik/mnist-coreml)| [YouTube](https://www.youtube.com/watch?v=d-6gJKAojDY) | UIKit, CoreML, Keras | Submitted |
+|[Omar Albeik](https://twitter.com/omaralbeik/)|[GitHub](https://github.com/omaralbeik/mnist-coreml)| [YouTube](https://www.youtube.com/watch?v=d-6gJKAojDY) | UIKit, CoreML, Keras | Accepted |
 |[Osama Naeem](https://github.com/Onaeem26)|[GitHub](https://github.com/Onaeem26/passcodewwdc)| [YouTube](https://www.youtube.com/watch?v=6OSWDy9NW90) | UIKit, CoreAnimation, CADisplayLink, UIBezierPath | Submitted |
 |Ozan Mirza| [GitHub](http://github.com/ozanmirza1/PaintPad-2.0) || UIKit | Submitted |
 |[Paige Sun](https://github.com/p-sun/)|[GitHub](https://github.com/p-sun/ARPowerPanels)|| ARKit, SceneKit, Metal, PlaygroundBook + iOS framework + iOS app | Submitted |
