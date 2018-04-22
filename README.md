@@ -84,6 +84,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Jacob Patel](https://github.com/jacobseanpatel)|[GitHub](https://github.com/jacobseanpatel/Foosball)| | SpriteKit, UIKit, AVFoundation | Submitted |
 |[Jai Bhavnani](https://twitter.com/jai_bhavnani) | [GitHub](https://github.com/jbhav24/wwdc18) | | UIKit, SceneKit, AVFoundation, Core Animation, UIGestures, Dispatch, Core Graphics | Submitted | 
 |[Jari Koopman](https://twitter.com/LotUDev) | [GitHub](https://github.com/MrLotU/WWDC18) | | UIKit, GameplayKit |Submitted|
+|[James Dale](https://twitter.com/_JamesDale) | [GitHub](https://github.com/JamesDale) | | ARKit, SceneKit, CoreML |Accepted|
 |[Jason Idris](https://github.com/coffeeboo) | [GitHub](https://github.com/coffeeboo/WWDC18) | [Giphy](https://giphy.com/gifs/oOQWCqhvfrsmVTW6qc) | UIKit, SpriteKit, Core ML, Vision | Submitted |
 |[Javier de Martín](https://twitter.com/javierdemartin) | [GitHub](https://github.com/javierdemartin/WWDC18) | | UIKit, SceneKit & ARKit | Submitted | 
 |[Jay Lees](https://github.com/jaylees14) | [GitHub](https://github.com/jaylees14/WWDC18) | | UIKit, SceneKit, ARKit | Accepted |
