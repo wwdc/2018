@@ -158,6 +158,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Yichen Cao](https://schemetrical.github.io)|[GitHub](https://github.com/Schemetrical)|| UIKit, CoreML |Accepted|
 |[Yogesh Kohli](https://github.com/yogesh2209)|[GitHub](https://github.com/yogesh2209/YPad-SwiftPlaygroundBook)| [YouTube](https://www.youtube.com/watch?v=SD5_bKDZiOk&t=3s) | UIKit, Core Animation, AVFoundation | Submitted |
 |[Yongkang Chen](https://twitter.com/iWeslie)|[GitHub](https://github.com/iWeslie/WWDC18)|[YouTube](https://youtu.be/nokdtApjAsg)| UIKit, QuartzCore, CoreGraphics, Dispatch, Foundation |Submitted|
+|[Yuma Soerianto](https://twitter.com/yumaSoerianto)| |[YouTube](https://youtu.be/2uAzEMprtfw)| ARKit, UIKit, SceneKit, AVFoundation |Accepted|
 |[Yuta Saito](https://twitter.com/kateinoigakukun)|[GitHub](https://github.com/kateinoigakukun/wwdc-2018)|| UIKit, Foundation |Submitted|
 |[Zach Knox](https://twitter.com/zmknox) | [Github](https://github.com/zmknox/WWDC18-Scholarship-Application) | [YouTube](https://youtu.be/Kl4ZJdD8dkY) | SpriteKit | Accepted |
 |[Zach Simone](https://twitter.com/zachsimone)|[GitHub](https://github.com/zachsimone/WWDC18-Insulin-Pump-Simulator)||UIKit|Submitted|
