@@ -149,7 +149,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Valmir Massoni Jr.](https://github.com/vrjunior)|[GitHub](https://github.com/vrjunior/Metamorphosis)|[YouTube](https://youtu.be/r2Xgh0uxGe0)|SceneKit, AVFoundation|Rejected|
 |[Veit Progl](https://twitter.com/VoxelVoxels)|[GitHub](https://github.com/Veeit/WWDC_2018)||UIKit, CoreML, SceneKit, ARKit|Submitted|
 |[Victor Kreniski](https://twitter.com/VictorKreniski)|[GitHub](https://github.com/krevi27/WWDC18)|[YouTube](https://www.youtube.com/watch?v=P17qt8iYJ_4)| SpriteKit, AVFoundation | Submitted |
-|[Vincenzo Aceto](https://github.com/vinzaceto)|[GitHub](https://github.com/vinzaceto/WWDCPlayground)|[YouTube](https://youtu.be/cvkEDOhAg4w)| UIKit, AVFoundation, Vision, CoreML | Submitted |
+|[Vincenzo Aceto](https://github.com/vinzaceto)|[GitHub](https://github.com/vinzaceto/WWDCPlayground)|[YouTube](https://youtu.be/cvkEDOhAg4w)| UIKit, AVFoundation, Vision, CoreML | Accepted |
 |[Walter Zhu](https://www.walterzhu.com/)|||UIKit, CoreGraphics, PlaygroundBooks| Submitted|
 |[Wei Dai](https://github.com/zjdavid)|[GitHub](https://github.com/zjdavid/Trajector)||UIKit Dynamics, GameplayKit, AVFoundation|Submitted|
 |[Weiran Du](http://www.williamdu.space/)|[GitHub](https://github.com/stringconstant/WWDC_2018_Submission)|[Youtube](https://www.youtube.com/watch?v=gHZuYHE78yw)|UIKit, CoreGraphics| Accepted |
