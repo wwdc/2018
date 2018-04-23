@@ -133,6 +133,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Samay Shamdasani](https://shamdasani.org) | [GitHub](https://github.com/shamdasani/SwiftFrameworks) | [YouTube](https://www.youtube.com/watch?v=b3Huqtw2log) | SceneKit, Core Animation, Core Graphics, UIKit, AVFoundation, Vision | Submitted |
 |Sanjay Soni | | |GameKit, GameplayKit, SpriteKit, UIKit| | 
 |[Sergen Gönenç](https://github.com/sergendev)|[GitHub](https://github.com/sergendev/Swiftgaea)| | UIKit, CoreGraphics | Submitted |
+|[Sinchan Maitri](http://smaitri.tech)||| UIKit, SpriteKit, AVFoundation, CoreAnimation | Accepted |
 |[Sophia Kalanovska](https://github.com/SophiaKalanovska)|[GitHub](https://github.com/SophiaKalanovska/WWDC18)| |XCPlayground, UIKit, GameplayKit, AVFoundation | Submitted|
 |[Soroush Shahi](http://faderani.ir)| | | SpriteKit, GamePlayKit, AVFoundation | Submitted |
 |[TJ Ledwith](https://github.com/makertech81)|[GitHub](https://github.com/makertech81/WWDC_2018)| |UIKit, SpriteKit, AVFoundation, Gesture Recognition | Submitted|
