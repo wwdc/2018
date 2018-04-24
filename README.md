@@ -120,6 +120,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Mauricio Lorenzetti](https://github.com/mauricio-lorenzetti/)|[GitHub](https://github.com/mauricio-lorenzetti/Connecting-Dots-WWDC18)| | CoreAnimation, UIKit | Accepted |
 |[Mehul Mohan](https://twitter.com/mehulmpt/)|[GitHub](https://github.com/mehulmpt/wwdc2018)| [YouTube](https://www.youtube.com/watch?v=Hg0k5xvj68s) | SpriteKit, AVFoundation |Submitted|
 |[Michał Cichecki](https://www.linkedin.com/in/mcichecki/) | [GitHub](https://github.com/mcichecki/mini-piano) | | SpriteKit, AVFoundation | Accepted |
+|[Miguel Salinas](https://github.com/Vercantez)|[GitHub](https://github.com/Vercantez/Synesthesia)|[YouTube](https://youtu.be/hIYFR4CwJ9I)|Accelerate, AVFoundation, Cocoa|Accepted|
 |[Mikey T. Krieger](https://www.helikes.it/) | [GitHub](https://github.com/mtkrieger/AstroYoga) | [YouTube](https://youtu.be/qE-lkiyXM1E) | Playground Books, UIKit, SceneKit, SpriteKit | Rejected |
 |[Ming Mai](https://twitter.com/mmdadao/) | [GitHub](https://github.com/kingcos/ML-Scratch-WWDC18) | | ARKit, CoreML, PlaugroundBooks, SceneKit, Vision | Submitted |
 |[Mingyuan Hu](https://github.com/miamiaH) | | [YouTube](https://www.youtube.com/watch?v=uEBkfUbR7Ys) | CoreGraphics, UIKit | Submitted | 
