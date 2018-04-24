@@ -70,7 +70,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Giovanni Bassolino](https://github.com/giangi0/) | | [YouTube](https://youtu.be/qjQM4c7tfRs) | SpriteKit, GameplayKit, UIKit, AVFoundation| Submitted |
 |[Giovanni Luigi Bruno](https://github.com/GiovanniLuigi)|[GitHub](https://github.com/GiovanniLuigi/DotsAndBoxesPlayground/tree/master)|[YouTube](https://www.youtube.com/watch?v=FIID-XjP4DQ&feature=youtu.be)|SpriteKit, Gameplay Kit, AVFoundation| Accepted |
 |[Guillermo Cique](https://github.com/GuiyeC) | [GitHub](https://github.com/GuiyeC/WWDC-2018) | [YouTube](https://youtu.be/MtLMERAibp8) | UIKit, Playground Books, SpriteKit | Accepted |
-|[Gustavo Crivelli](https://github.com/gmCrivelli)|[GitHub](https://github.com/gmCrivelli/Day-in-the-Park-WWDC18)||UIKit, SpriteKit| Submitted |
+|[Gustavo Crivelli](https://github.com/gmCrivelli)|[GitHub](https://github.com/gmCrivelli/Day-in-the-Park-WWDC18)||UIKit, SpriteKit| Accepted |
 |[Haotian Zheng](https://github.com/JustinFincher)|[GitHub](https://github.com/JustinFincher/WWDC-18-Scholarship-Project)||UIKit, SceneKit, ModelIO, GameplayKit | Accepted |
 |[Harshita Arora](https://github.com/harshitaarora)|[GitHub](https://github.com/harshitaarora/Alice-in-codeLand)|[YouTube](https://youtu.be/X0fZRXtIpkM)|UIKit| Submitted |
 |[Hengyu Liu](https://github.com/a211212abc)|||UIKit, PlaygroundBooks| Submitted |
