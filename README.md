@@ -37,7 +37,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Arved Viehweger](https://github.com/arvedviehweger)|[GitHub](https://github.com/arvedviehweger/WWDC2018/tree/master)| [YouTube](https://www.youtube.com/watch?v=A6qPTykNCCQ&lc=)| UIKit, SceneKit, AVFoundation | Accepted |
 |[Aryan Kashyap](https://twitter.com/NSAryan12)| | | UIKit, SpriteKit, AVFoundation, PlaygroundSupport, PlaygroundBook | Accepted |
 |[Aryeh Greenberg](https://github.com/arr00)|[GitHub](https://github.com/arr00/WWDC-2018-Playground)|[YouTube](https://www.youtube.com/watch?v=UoPWOobgWnk)| SpriteKit, AVFoundation, UIKit | Accepted|
-|[Aulene De](https://github.com/Aulene/)|[GitHub](https://github.com/Aulene/CaptureTheAlien)| | SpriteKit | Submitted|
+|[Aulene De](https://github.com/Aulene/)|[GitHub](https://github.com/Aulene/CaptureTheAlien)| | SpriteKit | Accepted|
 |[Austin Fuller](https://github.com/AustinFuller/)|[GitHub](https://github.com/AustinFuller/WWDC2018Playground) | | UIKit, AVFoundation, CoreGraphics | Submitted |
 |[Bart Wesselink](https://github.com/bartwesselink)|[GitHub](https://github.com/bartwesselink/wwdc18-smart-cars) | [YouTube](https://youtu.be/DXJYjCuj7YI) | AVFoundation, SpriteKit, PlaygroundBooks | Accepted |
 |[Batuhan Saka](https://www.twitter.com/strawb3rryx7)| | | SpriteKit, UIKit, AVFoundation  | Accepted |
