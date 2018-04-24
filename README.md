@@ -104,6 +104,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Kyle Spadaro](https://twitter.com/kylespadaro)|[GitHub](https://github.com/kylespadaro2/WWDC/tree/master/2018) | |AVFoundation, GameplayKit, SpriteKit, UIKit|Accepted| 
 |[Lalo Martnez](https://twitter.com/L__A__L__O)|[GitHub](https://github.com/LaloMrtnz/Miles) | [YouTube](https://www.youtube.com/watch?v=gX_dBSTE-cE)|AudioToolbox, AVFoundation, MIDI, SpriteKit|Submitted | 
 |[Lars Schwegmann](https://twitter.com/larsschwegmann)|[GitHub](https://github.com/larsschwegmann/WWDC18-Scholarship-Submission) | |SpriteKit, GampleyKit, AppKit, CoreGraphics |Submitted |
+|[Lennart Fischer](https://twitter.com/lambdadigamma)| | | ARKit, SceneKit, CoreAudioKit, AudioUnit, AudioToolkit, AVFoundation, UIKit | Accepted |
 |[Leo Vallet](https://twitter.com/leovallet)|[GitHub](https://github.com/leovallet) | [YouTube](http://bit.ly/wwdc-accessibility) |ARKit, UIKit, SceneKit, AVFoundation | Accepted |
 |[Leon Hahne](https://github.com/Limoo)|[GitHub](https://github.com/Limoo/WWDC) | [YouTube](https://youtu.be/JHujapuFdEk) |SpriteKit | Submitted |
 |[Leonel Lima](https://github.com/leo1mml)|[GitHub](https://github.com/leo1mml/WWDC2018) | [YouTube](https://www.youtube.com/watch?v=N-DQeb1bKKk) |SpriteKit, GameplayKit, UIKit, AVFoundation | Submitted |
