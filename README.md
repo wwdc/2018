@@ -32,6 +32,10 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Anirudh Natarajan](https://github.com/aniNatarajan12/)| [GitHub](https://github.com/aniNatarajan12/RushToWWDC)| [Youtube](https://www.youtube.com/watch?v=IN3XOPIYWsY)| ARKit, SceneKit, SpriteKit, AVFoundation| Accepted|
 |[Antonio Zaitoun](https://github.com/Minitour/)|[GitHub](https://github.com/Minitour/Micro-Interface-Builder)| [YouTube](https://www.youtube.com/watch?v=G0yjMRrsG7c)| UIKit, SceneKit, CoreGraphics, CoreAnimation | Submitted|
 |[Arno Appenzeller](https://github.com/arnoappenzeller)|[GitHub](https://github.com/arnoappenzeller/WWC18-Scholarship-Submission)|| UIKit, PlaygroundBook | Submitted|
+|[Arved Viehweger](https://github.com/arvedviehweger)|[GitHub](https://github.com/arvedviehweger/WWDC2018/tree/master)| [YouTube](https://www.youtube.com/watch?v=A6qPTykNCCQ&lc=)| UIKit, SceneKit, AVFoundation | Submitted|
+|[Aryeh Greenberg](https://github.com/arr00)|[GitHub](https://github.com/arr00/WWDC-2018-Playground)|[YouTube](https://www.youtube.com/watch?v=UoPWOobgWnk)| SpriteKit, AVFoundation, UIKit | Submitted|
+|[Aulene De](https://github.com/Aulene/)|[GitHub](https://github.com/Aulene/CaptureTheAlien)| | SpriteKit | Accepted|
+=======
 |[Arved Viehweger](https://github.com/arvedviehweger)|[GitHub](https://github.com/arvedviehweger/WWDC2018/tree/master)| [YouTube](https://www.youtube.com/watch?v=A6qPTykNCCQ&lc=)| UIKit, SceneKit, AVFoundation | Accepted |
 |[Aryan Kashyap](https://twitter.com/NSAryan12)| | | UIKit, SpriteKit, AVFoundation, PlaygroundSupport, PlaygroundBook | Accepted |
 |[Aryeh Greenberg](https://github.com/arr00)|[GitHub](https://github.com/arr00/WWDC-2018-Playground)|[YouTube](https://www.youtube.com/watch?v=UoPWOobgWnk)| SpriteKit, AVFoundation, UIKit | Accepted|
