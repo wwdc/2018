@@ -80,7 +80,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Hengyu Liu](https://github.com/a211212abc)|||UIKit, PlaygroundBooks| Rejected |
 |[Hengyu Zhou](https://github.com/Hengyu) | | [YouTube](https://www.youtube.com/watch?v=cZHQ5dmkglA) | ARKit, CoreGraphics, SceneKit, UIKit | Submitted | 
 |[Henry Gu](https://github.com/hg1722)|[GitHub](https://github.com/hg1722/mnist_invaders)||UIKit, SpriteKit, CoreML, AVFoundation| Submitted |
-|[Henrik Storch](https://github.com/thisisthefoxe)|[GitHub](https://github.com/thisisthefoxe/wwdc18)||UIKit, SceneKit, ARKit, PlaygroundBook| Accepted |
+|[Henrik Storch](https://github.com/thisisthefoxe)|[GitHub](https://github.com/thisisthefoxe/wwdc18)|[Youtube](https://www.youtube.com/watch?v=EDvdbKoTuR4)||UIKit, SceneKit, ARKit, PlaygroundBook| Accepted |
 |[Hugo Lundin](https://github.com/hugolundin)|[GitHub](https://github.com/hugolundin/TuringMachines)||UIKit, PlaygroundBooks| Submitted |
 |[Igor Rinkovec](https://github.com/TheWildHorse)|[GitHub](https://github.com/TheWildHorse/GuillochePlayground)|[YouTube](https://www.youtube.com/watch?v=UzRLZKDSB0I)|SceneKit, UIKit, PlaygroundBooks| Accepted |
 |[Ilias Ennmouri](https://github.com/iIias)|[GitHub](https://github.com/iIias/Blastar-wwdc18/)|| GameplayKit, SpriteKit| Submitted |
