@@ -141,6 +141,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |Sanjay Soni | | |GameKit, GameplayKit, SpriteKit, UIKit|Submitted| 
 |[Sergen Gönenç](https://github.com/sergendev)|[GitHub](https://github.com/sergendev/Swiftgaea)| | UIKit, CoreGraphics | Submitted |
 |[Shunzhe Ma](http://twitter.com/ShunzheMa)| | | UIKit, SceneKit, Core Animation | Accepted |
+|[Sinchan Maitri](http://smaitri.tech)||| UIKit, SpriteKit, AVFoundation, CoreAnimation | Accepted |
 |[Sophia Kalanovska](https://github.com/SophiaKalanovska)|[GitHub](https://github.com/SophiaKalanovska/WWDC18)| |XCPlayground, UIKit, GameplayKit, AVFoundation | Submitted|
 |[Soroush Shahi](http://faderani.ir)| | | SpriteKit, GamePlayKit, AVFoundation | Submitted |
 |[Sunghyun Cho](https://github.com/anaclumos)|[Github](https://github.com/anaclumos/WWDC2018-Scholarship-Submission)| | UIKit, PlaygroundSupport | Accepted |
