@@ -12,7 +12,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
-|[Aaron Cheung](https://www.facebook.com/WahYanAaron)| | [YouTube](https://youtu.be/t9Bp4rkPh7E) | UIKit, AVFoundation, Gesture Recognizer | Submitted |
+|[Aaron Cheung](https://www.facebook.com/WahYanAaron)| | [YouTube](https://youtu.be/t9Bp4rkPh7E) | UIKit, AVFoundation, Gesture Recognizer | Rejected |
 |[Aaron Nguyen](https://github.com/attwelveDev)|[GitHub](https://github.com/attwelveDev/WWDC18-Submission)| | UIKit, AVFoundation | Submitted |
 |[Adann Simões](https://github.com/adannsergio)|[GitHub](https://github.com/adannsergio/WWDC18)||PlaygroundBooks, UIKit, CoreGraphics| Submitted |
 |[Adrian Labbé](https://github.com/ColdGrub1384/)|[GitHub](https://github.com/ColdGrub1384/WWDC18)| | SpriteKit, UIKit | Submitted|
