@@ -22,7 +22,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Alessandro Izzo](https://github.com/Hantex9/)|[GitHub](https://github.com/Hantex9/PuzzlePipe) | [YouTube](https://youtu.be/SG972hlY8Ds) | UIKit, GameplayKit, AVFoundation| Submitted|
 |[Alessandro Minopoli](https://github.com/alex010x) | [GitHub](https://github.com/alex010x/HackNscape) | | SpriteKit, PlaygroundBook | Accepted |
 |[Alexandre Vassinievski](https://github.com/alexvassini)| [GitHub](https://github.com/alexvassini/ArDrawing) |  | UIKit, ARKit, SceneKit | Submitted |
-|[Alex Santarelli](https://github.com/Alexs2424/)| [GitHub](https://github.com/Alexs2424/WWDC18Submission) |[YouTube](https://youtu.be/1nwITyqhbsk)| ARKit, JSON Parsing | Submitted |
+|[Alex Santarelli](https://github.com/Alexs2424/)| [GitHub](https://github.com/Alexs2424/WWDC18Submission) |[YouTube](https://youtu.be/1nwITyqhbsk)| ARKit, JSON Parsing | Accepted |
 |[Alexis Aubry](https://github.com/alexaubry)| [GitHub](https://github.com/alexaubry/MLMOJI) | [YouTube](https://www.youtube.com/watch?v=Z7jdLrorctQ) | Core ML, Core Image, TensorFlow, Playground Book | Rejected |
 |[Ali Kheirkhah](https://github.com/alikheirkhah/WWDC2018-student-Ali/)| [GitHub](https://github.com/alikheirkhah/WWDC2018-student-Ali/) |  | UIKit, SpriteKit, ARKit | Submitted |
 |[Amanda Southworth](https://github.com/thecodingone)| | | UIKit, CoreML, AVFoundation, Vision, Foundation | Submitted |
