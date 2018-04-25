@@ -107,6 +107,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Lennart Fischer](https://twitter.com/lambdadigamma)| | | ARKit, SceneKit, CoreAudioKit, AudioUnit, AudioToolkit, AVFoundation, UIKit | Accepted |
 |[Leo Vallet](https://twitter.com/leovallet)|[GitHub](https://github.com/leovallet) | [YouTube](http://bit.ly/wwdc-accessibility) |ARKit, UIKit, SceneKit, AVFoundation | Accepted |
 |[Leon Hahne](https://github.com/Limoo)|[GitHub](https://github.com/Limoo/WWDC) | [YouTube](https://youtu.be/JHujapuFdEk) |SpriteKit | Submitted |
+|[Leo Li](https://github.com/leo4life2)|[GitHub](https://github.com/leo4life2/wwdc18) | [YouTube]() |SpriteKit, UIKit | Accepted |
 |[Leonel Lima](https://github.com/leo1mml)|[GitHub](https://github.com/leo1mml/WWDC2018) | [YouTube](https://www.youtube.com/watch?v=N-DQeb1bKKk) |SpriteKit, GameplayKit, UIKit, AVFoundation | Submitted |
 |[Llogari Casas](https://github.com/llogaricasas)|[GitHub](https://github.com/llogaricasas/WWDC2018) | [YouTube](https://youtu.be/MTmifyGFKRM)|UIKit, CoreML|Submitted|
 |[Lukas A. Mueller](https://lukasam.com)|[GitHub](https://github.com/luki/wwdc-2018)|[YouTube](https://www.youtube.com/watch?v=H6R0QEuuVow) | Darwin, SpriteKit, UIKit | Submitted |
