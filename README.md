@@ -51,7 +51,6 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Dalton Prescott](https://github.com/dustarion/)|[GitHub](https://github.com/dustarion/wwdc18)|| UIKit, SceneKit, CoreML, AVFoundation| Submitted |
 |[Daniel Gruber](https://github.com/danielgruber)|[Bitbucket](https://repo.goma-cms.org/users/daniel.gruber/repos/wwdc-2018/browse)| | UIKit, PlaygroundBooks, CoreGraphics | Submitted|
 |[David Nadoba](https://github.com/dnadoba) | [GitHub](https://github.com/dnadoba/games-and-math-playgroundbook) | [YouTube](https://youtu.be/95x6WlrhlG4) | SpriteKit, UIKit | Submitted |
-|[Débora Moura](https://github.com/deboramour4/)|[GitHub](https://github.com/deboramour4/KeepCalm)|[YouTube](https://www.youtube.com/watch?v=Z-cjsfjlDfQ)| UIKit, CoreGraphics| Accepted |
 |[Dowland Aiello](https://github.com/dowlandaiello/)|[GitHub](https://github.com/dowlandaiello/Pop)| [YouTube](https://youtu.be/MWhHSGbS3gM) | AppKit, SpriteKit, Foundation | Submitted|
 |[Eduardo Yutaka Nakanishi](https://github.com/eduardoyutaka) | [GitHub](https://github.com/eduardoyutaka/magical-sketch) | [YouTube](https://www.youtube.com/watch?v=H1Jo0hcLpIE) | UIKit, CoreMotion | Submitted |
 |[Eliott Hauteclair](https://github.com/Eliottiosdevs/)|| | AVFoundation, UIKit | Rejected |
