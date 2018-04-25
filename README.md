@@ -24,7 +24,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Alexandre Vassinievski](https://github.com/alexvassini)| [GitHub](https://github.com/alexvassini/ArDrawing) |  | UIKit, ARKit, SceneKit | Submitted |
 |[Alex Santarelli](https://github.com/Alexs2424/)| [GitHub](https://github.com/Alexs2424/WWDC18Submission) |[YouTube](https://youtu.be/1nwITyqhbsk)| ARKit, JSON Parsing | Accepted |
 |[Alexis Aubry](https://github.com/alexaubry)| [GitHub](https://github.com/alexaubry/MLMOJI) | [YouTube](https://www.youtube.com/watch?v=Z7jdLrorctQ) | Core ML, Core Image, TensorFlow, Playground Book | Rejected |
-|[Ali Kheirkhah](https://github.com/alikheirkhah/WWDC2018-student-Ali/)| [GitHub](https://github.com/alikheirkhah/WWDC2018-student-Ali/) |  | UIKit, SpriteKit, ARKit | Submitted |
+|[Ali Kheirkhah](https://github.com/alikheirkhah/WWDC2018-student-Ali/)| [GitHub](https://github.com/alikheirkhah/WWDC2018-student-Ali/) |  | UIKit, SpriteKit, ARKit | Accepted |
 |[Amanda Southworth](https://github.com/thecodingone)| | | UIKit, CoreML, AVFoundation, Vision, Foundation | Submitted |
 |[Amit Kalra](https://github.com/AMITNKALRA)|[GitHub](https://github.com/AMITNKALRA/WWDC--18-Playground--Student-Scholarship-)| [YouTube](https://www.youtube.com/watch?v=_5lBBduQzLo) | UIKit, AVFoundation, Gesture Recognizer | Accepted|
 |[Andreas Neusuess](https://github.com/Tantalum73/)|[GitHub](https://github.com/Tantalum73/WWDC18ScholarshipSubmission)||AVFoundation, UIKit, CoreAnimation, CoreImage|Accepted|
