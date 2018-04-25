@@ -49,7 +49,8 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Carlo Carpio](https://github.com/CarloCarpio93) | [GitHub](https://github.com/CarloCarpio93/ProjectTesla) | [Youtube](https://www.youtube.com/watch?v=bxd26oV6p48&t=16s)| SpriteKit, UIKit, Playground books | Submitted |
 |[Chip Beck](https://github.com/ch1pa/) | [GitHub](https://github.com/ch1pa/WWDC-2018-Scholarship-Application/) || UIKit, MapKit, AVKit, CoreGraphics | Accepted |
 |[Charles-Olivier Demers](https://github.com/charlot567/) | [GitHub](https://github.com/charlot567/WWDC-2018) || UIKit, SpriteKit, Playground book | Rejected |
-|[Christian Schnorr](https://github.com/jenox/) | [GitHub](https://github.com/jenox/WWDC-2018-Bezier-Curves-in-Typography/) || CoreGraphics & CoreText | Submitted | 
+|[Christian Schnorr](https://github.com/jenox/) | [GitHub](https://github.com/jenox/WWDC-2018-Bezier-Curves-in-Typography/) || CoreGraphics & CoreText | Submitted |
+|[Cibele Paulino](https://github.com/CibelePaulinoAndrade) | | [Youtube](https://www.youtube.com/watch?v=ciyNZGnbcRw)| SpriteKit, UIKit, Playground books | Accepted |
 |[Collin DeWaters](https://github.com/ctdewaters) | [GitHub](https://github.com/ctdewaters/WWDC18-Scholarship-Submission) | [YouTube](https://www.youtube.com/watch?v=pjHS3-3j1xQ) | AppKit, SceneKit, AVFoundation | Accepted |
 |[Dalton Prescott](https://github.com/dustarion/)|[GitHub](https://github.com/dustarion/wwdc18)|| UIKit, SceneKit, CoreML, AVFoundation| Submitted |
 |[Daniel Gruber](https://github.com/danielgruber)|[Bitbucket](https://repo.goma-cms.org/users/daniel.gruber/repos/wwdc-2018/browse)| | UIKit, PlaygroundBooks, CoreGraphics | Submitted|
