@@ -172,7 +172,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Veit Progl](https://twitter.com/VoxelVoxels)|[GitHub](https://github.com/Veeit/WWDC_2018)||UIKit, CoreML, SceneKit, ARKit|Submitted|
 |[Victor Kreniski](https://twitter.com/VictorKreniski)|[GitHub](https://github.com/krevi27/WWDC18)|[YouTube](https://www.youtube.com/watch?v=P17qt8iYJ_4)| SpriteKit, AVFoundation | Submitted |
 |[Vincenzo Aceto](https://github.com/vinzaceto)|[GitHub](https://github.com/vinzaceto/WWDCPlayground)|[YouTube](https://youtu.be/cvkEDOhAg4w)| UIKit, AVFoundation, Vision, CoreML | Accepted |
-|[Walter Zhu](https://www.walterzhu.com/)|||UIKit, CoreGraphics, PlaygroundBooks| Submitted|
+|[Walter Zhu](https://www.walterzhu.com/)|[GitHub](https://github.com/Walter0807/Logic-Gates)||UIKit, CoreGraphics, PlaygroundBooks| Accepted|
 |[Wei Dai](https://github.com/zjdavid)|[GitHub](https://github.com/zjdavid/Trajector)||UIKit Dynamics, GameplayKit, AVFoundation|Submitted|
 |[Weiran Du](http://www.williamdu.space/)|[GitHub](https://github.com/stringconstant/WWDC_2018_Submission)|[Youtube](https://www.youtube.com/watch?v=gHZuYHE78yw)|UIKit, CoreGraphics| Accepted |
 |William Taylor| | [YouTube](https://youtu.be/qXgyTGIG_Xw) | SpriteKit, ARKit, AVFoundation, UIKit | Accepted | 
