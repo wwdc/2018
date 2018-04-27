@@ -145,7 +145,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Paige Sun](https://github.com/p-sun/)|[GitHub](https://github.com/p-sun/ARPowerPanels)|| ARKit, SceneKit, Metal, PlaygroundBook + iOS framework + iOS app | Submitted |
 |[Peter Simon](http://github.com/donleysimon)|[GitHub](http://github.com/donleysimon/WWDC-2018-Colorless)|| UIKit, CoreImage | Submitted |
 |[Qingyang Hu](https://github.com/mmlmml1)| [Github](https://github.com/mmlmml1/Waves) | |SceneKit, SpriteKit, ARKit, UIKit, PlaygroundBooks| Submitted|
-|[Raffael Kaehn](https://github.com/vortycon)|[GitHub](https://github.com/vortycon/WWDC18)| [YouTube](https://youtu.be/KFWYJvmqPio) | UIKit, SceneKit | Submitted |
+|[Raffael Kaehn](https://github.com/vortycon)|[GitHub](https://github.com/vortycon/WWDC18)| [YouTube](https://youtu.be/KFWYJvmqPio) | UIKit, SceneKit | Accepted |
 |[Răzvan Geangu](https://github.com/razvangeangu)|[GitHub](https://github.com/razvangeangu/WWDC18-SpaceWord)| | SpriteKit, UIKit, AVFoundation | Rejected |
 |[Renan Silveira](https://github.com/rnnsilveira) | [GitHub](https://github.com/rnnsilveira/SolarSystSimulatorWWDC2018) || SpriteKit, UIKit | Submitted |
 |[Renata Faria](https://github.com/xReee)|[GitHub](https://github.com/xReee/wwdc2018)|[YouTube](https://www.youtube.com/watch?v=YHBSvNmBFBY&t)| UIKit, AVFoundation, Accessibility, NotificationCenter, UIGestures | Rejected|
