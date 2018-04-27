@@ -140,6 +140,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Nathan Gitter](https://twitter.com/nathangitter)| [GitHub](https://github.com/nathangitter/PentatonicGameOfLife) | | SpriteKit | Accepted |
 |[Nicholas Grana](https://github.com/Nicholas714)|[GitHub](https://github.com/Nicholas714/WWDC-2018)| [YouTube](https://youtu.be/xpKNT1dRKks) | ARKit, SceneKit, SpriteKit | Accepted |
 |[Niklas Buelow](https://github.com/insightmind)|[GitHub](https://github.com/insightmind/WWDC18Scholarship)| | SpriteKit, SpriteKit-Spring | Accepted |
+|[Nikolas Ioannou](https://www.instagram.com/nik.ioannou/)| | | UIKit, CoreGraphics | Accepted |
 |[Nils Leif Fischer](https://github.com/nilsleiffischer)| [GitHub](https://github.com/nilsleiffischer/gravitational-waves-playground) | | SceneKit, Metal, PlaygroundBook | Accepted |
 |[Nirmit Patel](https://github.com/nap0017)| | | UIKit, ARKit, SceneKit, SpriteKit | Submitted |
 |[Oleg Dreyman](https://github.com/dreymonde)|[GitHub](https://github.com/dreymonde/Paperville)| | UIKit, Core Animation | Accepted |
