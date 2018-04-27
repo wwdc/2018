@@ -159,7 +159,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Sai Kambampati](https://www.saikambampati.com) | [GitHub](https://github.com/aidev1065/Rock-Paper-Scissors-AI---WWDC-2018/blob/master/README.md) | [YouTube](http://youtube.com/watch?v=jzcuVkW8M0U) | CoreML, ARKit, SceneKit, UIKit, AVFoundation, Microsoft's [Custom Vision](customvision.ai) | Accepted |
 |[Salman Husain](https://blog.services.aero2x.eu) | [GitHub](https://github.com/shusain93/WWDC18) | [YouTube](https://www.youtube.com/watch?v=GHlE__BtQBk) | SpriteKit, UIKit, Playground Books | Accepted |
 |[Sam Eckert](https://sam0711er.com) | | [YouTube](https://youtu.be/vEyxsDpCYdY) | ARKit, SceneKit, UIKit (+Dynamics), AVKit, AVFoundation | Rejected |
-|[Samay Shamdasani](https://shamdasani.org) | [GitHub](https://github.com/shamdasani/SwiftFrameworks) | [YouTube](https://www.youtube.com/watch?v=b3Huqtw2log) | SceneKit, Core Animation, Core Graphics, UIKit, AVFoundation, Vision | Submitted |
+|[Samay Shamdasani](https://shamdasani.org) | [GitHub](https://github.com/shamdasani/SwiftFrameworks) | [YouTube](https://www.youtube.com/watch?v=b3Huqtw2log) | SceneKit, Core Animation, Core Graphics, UIKit, AVFoundation, Vision | Accepted |
 |Sanjay Soni | | |GameKit, GameplayKit, SpriteKit, UIKit|Submitted| 
 |[Sergen Gönenç](https://github.com/sergendev)|[GitHub](https://github.com/sergendev/Swiftgaea)| | UIKit, CoreGraphics | Accepted |
 |[Shunzhe Ma](http://twitter.com/ShunzheMa)| | | UIKit, SceneKit, Core Animation | Accepted |
