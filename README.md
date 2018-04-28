@@ -80,8 +80,8 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Guillermo Cique](https://github.com/GuiyeC) | [GitHub](https://github.com/GuiyeC/WWDC-2018) | [YouTube](https://youtu.be/MtLMERAibp8) | UIKit, Playground Books, SpriteKit | Accepted |
 |[Guozheng Zhang](https://github.com/Daniel612) | [GitHub](https://github.com/Daniel612/MusicBall) | [YouTube](https://youtu.be/pjckwZjeH7U) | ARKit, SceneKit, PlaygroundBooks | Accepted |
 |[Gustavo Crivelli](https://github.com/gmCrivelli)|[GitHub](https://github.com/gmCrivelli/Day-in-the-Park-WWDC18)||UIKit, SpriteKit| Accepted |
-|[Harish Yerra](https://github.com/hyerra)|[Github](https://github.com/hyerra/PixelFun)|CoreML, ARKit, Core Image| Accepted |
 |[Haotian Zheng](https://github.com/JustinFincher)|[GitHub](https://github.com/JustinFincher/WWDC-18-Scholarship-Project)||UIKit, SceneKit, ModelIO, GameplayKit | Accepted |
+|[Harish Yerra](https://github.com/hyerra)|[Github](https://github.com/hyerra/PixelFun)|CoreML, ARKit, Core Image| Accepted |
 |[Harshita Arora](https://github.com/harshitaarora)|[GitHub](https://github.com/harshitaarora/Alice-in-codeLand)|[YouTube](https://youtu.be/X0fZRXtIpkM)|UIKit| Submitted |
 |[Hengyu Liu](https://github.com/a211212abc)|||UIKit, PlaygroundBooks| Rejected |
 |[Hengyu Zhou](https://github.com/Hengyu) | | [YouTube](https://www.youtube.com/watch?v=cZHQ5dmkglA) | ARKit, CoreGraphics, SceneKit, UIKit | Submitted | 
