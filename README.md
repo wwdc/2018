@@ -139,6 +139,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Mingyuan Hu](https://github.com/miamiaH) | | [YouTube](https://www.youtube.com/watch?v=uEBkfUbR7Ys) | CoreGraphics, UIKit | Submitted | 
 |[Mohamed Salah](https://www.facebook.com/Abo.Salahh77) | [GitHub](https://github.com/MoHamEdSaLaHH/WWDC18-Scholarship-Submission) |[YouTube](https://www.youtube.com/watch?v=O5AdeSrqHw4) | UIKit, AVFoundation, SceneKit, CoreGraphics | Rejected |
 |[Monika Zielonka](https://github.com/emzielonka)| | [YouTube](https://youtu.be/Dmbo9deFmvI) | UIKit, Core Animation, Core Graphics | Submitted |
+|[Moritz Bruder](https://github.com/moritzbruder)| [GitHub](https://github.com/moritzbruder/DesignPattern-Playground)  |  | UIKit | Accepted |
 |[Moritz Philip Recke](https://moritzrecke.com)| [GitHub](https://github.com/mprecke/The-Illusion-Of-Movement)  | [GIF](https://github.com/mprecke/The-Illusion-Of-Movement/blob/master/The-Illusion-Of-Movement.gif) | UIKit, AVFoundation, PlaygroundSupport, PlaygroundBook, | Accepted |
 |[Nathan Gitter](https://twitter.com/nathangitter)| [GitHub](https://github.com/nathangitter/PentatonicGameOfLife) | | SpriteKit | Accepted |
 |[Nicholas Grana](https://github.com/Nicholas714)|[GitHub](https://github.com/Nicholas714/WWDC-2018)| [YouTube](https://youtu.be/xpKNT1dRKks) | ARKit, SceneKit, SpriteKit | Accepted |
