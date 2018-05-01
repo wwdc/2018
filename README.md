@@ -39,7 +39,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Aryeh Greenberg](https://github.com/arr00)|[GitHub](https://github.com/arr00/WWDC-2018-Playground)|[YouTube](https://www.youtube.com/watch?v=UoPWOobgWnk)| SpriteKit, AVFoundation, UIKit | Accepted|
 |[August Heegaard](https://github.com/agisboye/)|[GitHub](https://github.com/agisboye/PokeGAN)| | AppKit, CoreML, Foundation | Accepted |
 |[Aulene De](https://github.com/Aulene/)|[GitHub](https://github.com/Aulene/CaptureTheAlien)| | SpriteKit | Accepted|
-|[Austin Fuller](https://github.com/AustinFuller/)|[GitHub](https://github.com/AustinFuller/WWDC2018Playground) | | UIKit, AVFoundation, CoreGraphics | Submitted |
+|[Austin Fuller](https://github.com/AustinFuller/)|[GitHub](https://github.com/AustinFuller/WWDC2018Playground) | | UIKit, AVFoundation, CoreGraphics | Rejected |
 |[Bart Wesselink](https://github.com/bartwesselink)|[GitHub](https://github.com/bartwesselink/wwdc18-smart-cars) | [YouTube](https://youtu.be/DXJYjCuj7YI) | AVFoundation, SpriteKit, PlaygroundBooks | Accepted |
 |[Batuhan Saka](https://www.twitter.com/strawb3rryx7)| | | SpriteKit, UIKit, AVFoundation  | Accepted |
 |[Bahadir Oncel](https://github.com/b-onc)| [GitHub](https://github.com/b-onc/GuessTheView) | | UIKit | Rejected |
