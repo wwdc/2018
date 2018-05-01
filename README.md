@@ -112,6 +112,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Julian Schiavo](https://twitter.com/justdotJS) | [GitHub](https://github.com/justdotJS) | [YouTube](https://www.youtube.com/watch?v=Sxq3bxzBPwY) | AppKit, SpriteKit, AVFoundation |Accepted|
 |[Julio Brazil](https://github.com/JulioBBL) | [GitHub](https://github.com/JulioBBL/Playground) | | SpriteKit |Rejected|
 |[Kamil Kosowski](https://twitter.com/KKosovsky)|| [YouTube](https://www.youtube.com/watch?v=y74i_7dIZeI) |UIKit, CoreGraphics, CoreAnimation| Submitted | 
+|[KK Chen](https://bichenkk.com/)| [GitHub](https://github.com/bichenkk/blockchain-swift-playground) || UIKit | Submitted |
 |[Klemens Strasser](https://twitter.com/klemensstrasser)|[GitHub](https://github.com/KlemensStrasser/BlindspotPlayground/) || Accessibility, SpriteKit, AVFoundation | Accepted | 
 |[Kuixi Song](https://github.com/songkuixi)|[GitHub](https://github.com/songkuixi/ARTargetShooting) |[YouTube](https://www.youtube.com/watch?v=mMFkfY6NURs)| SceneKit, ARKit, AudioToolBox, PlaygroundSupport| Accepted | 
 |[Kyle Spadaro](https://twitter.com/kylespadaro)|[GitHub](https://github.com/kylespadaro2/WWDC/tree/master/2018) | |AVFoundation, GameplayKit, SpriteKit, UIKit|Accepted| 
@@ -199,4 +200,3 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Zhixing Zhang](https://www.neoto.xin/)| [GitHub](https://github.com/Neotoxin4365/WWDC18) | [YouTube](https://youtu.be/vfzuN8sozR0) | UIKit, CoreAnimation, CoreGraphics, Carthage | Rejected |
 |[Zhiyu Zhu](https://apollozhu.github.io/)| [GitHub](https://github.com/ApolloZhu/Pong-Hau-K-i) | | AppKit, CoreGraphics, GameplayKit, SpriteKit | Accepted |
 |[Ziyao Zhang](https://github.com/ziyaointl)| [GitHub](https://github.com/ziyaointl/Fourier) | | UIKit, AVFoundation, Accelerate, SceneKit, Interface Builder, Core Animation, PlaygroundBook | Accepted |
-
