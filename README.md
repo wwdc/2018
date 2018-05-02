@@ -59,6 +59,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Collin DeWaters](https://github.com/ctdewaters) | [GitHub](https://github.com/ctdewaters/WWDC18-Scholarship-Submission) | [YouTube](https://www.youtube.com/watch?v=pjHS3-3j1xQ) | AppKit, SceneKit, AVFoundation | Accepted |
 |[Dalton Prescott](https://github.com/dustarion/)|[GitHub](https://github.com/dustarion/wwdc18)|| UIKit, SceneKit, CoreML, AVFoundation| Accepted |
 |[Daniel Gruber](https://github.com/danielgruber)|[Bitbucket](https://repo.goma-cms.org/users/daniel.gruber/repos/wwdc-2018/browse)| | UIKit, PlaygroundBooks, CoreGraphics | Accepted|
+|[Daniel Inderwies](https://github.com/daniel4Duniel)|[GitHub](https://github.com/daniel4Duniel/WWDC2018) | [YouTube](https://www.youtube.com/watch?v=aJufQDs8PLA) | UIKit, SpriteKit, AVFoundation | Accepted |
 |[David Nadoba](https://github.com/dnadoba) | [GitHub](https://github.com/dnadoba/games-and-math-playgroundbook) | [YouTube](https://youtu.be/95x6WlrhlG4) | SpriteKit, UIKit | Submitted |
 |[Débora Moura](https://github.com/deboramour4/)|[GitHub](https://github.com/deboramour4/KeepCalm)| [YouTube](https://www.youtube.com/watch?v=Z-cjsfjlDfQ) | UIKit, CoreGraphics | Accepted |
 |[Dowland Aiello](https://github.com/dowlandaiello/)|[GitHub](https://github.com/dowlandaiello/Pop)| [YouTube](https://youtu.be/MWhHSGbS3gM) | AppKit, SpriteKit, Foundation | Submitted|
