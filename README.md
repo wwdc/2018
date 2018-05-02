@@ -155,7 +155,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Omar Albeik](https://twitter.com/omaralbeik/)|[GitHub](https://github.com/omaralbeik/mnist-coreml)| [YouTube](https://www.youtube.com/watch?v=d-6gJKAojDY) | UIKit, CoreML, Keras | Accepted |
 |[Osama Naeem](https://github.com/Onaeem26)|[GitHub](https://github.com/Onaeem26/passcodewwdc)| [YouTube](https://www.youtube.com/watch?v=6OSWDy9NW90) | UIKit, CoreAnimation, CADisplayLink, UIBezierPath | Accepted |
 |Ozan Mirza| [GitHub](http://github.com/ozanmirza1/PaintPad-2.0) || UIKit | Submitted |
-|[Paige Sun](https://github.com/p-sun/)|[GitHub](https://github.com/p-sun/ARPowerPanels)|| ARKit, SceneKit, Metal, PlaygroundBook + iOS framework + iOS app | Submitted |
+|[Paige Sun](https://github.com/p-sun/)|[GitHub](https://github.com/p-sun/ARPowerPanels)|| ARKit, SceneKit, Metal, PlaygroundBook + iOS framework + iOS app | Rejected |
 |[Peter Simon](http://github.com/donleysimon)|[GitHub](http://github.com/donleysimon/WWDC-2018-Colorless)|| UIKit, CoreImage | Submitted |
 |[Qingyang Hu](https://github.com/mmlmml1)| [Github](https://github.com/mmlmml1/Waves) | |SceneKit, SpriteKit, ARKit, UIKit, PlaygroundBooks| Submitted|
 |[Raffael Kaehn](https://github.com/vortycon)|[GitHub](https://github.com/vortycon/WWDC18)| [YouTube](https://youtu.be/KFWYJvmqPio) | UIKit, SceneKit | Accepted |
