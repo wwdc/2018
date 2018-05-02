@@ -108,6 +108,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Marcel Hagmann](http://marcelhagmann.de)||[YouTube](https://youtu.be/UIMMhYHxPxQ)| UIKit, AVFoundation, CAEmitterLayer, UIViewPropertyAnimator, CAKeyframeAnimation |Submitted|
 |[Mars Geldard](https://twitter.com/TheMartianLife)|[GitHub](https://github.com/TheMartianLife/WWDC-2018)| | UIKit, SpriteKit, PlaygroundBooks, AVFoundation |Submitted|
 |[Matheus Rabelo](https://github.com/omatheusr)|[GitHub](https://github.com/omatheusr/Lost-Knight)| |SpriteKit|Accepted|
+|[Matheus Tusi](https://www.facebook.com/mattusi98)|[GitHub](https://github.com/mattusi/WWDC18_Submission)||CoreML, UIKit-Dynamics, CoreMotion, Vision, ARKit, SceneKit| Accepted |
 |[Mattia Fonisto](https://about.me/uzarel)|[GitHub](https://github.com/Uzarel/Heart-of-Mathematics)|[YouTube](https://youtu.be/_BiAqXCkpPA)|UIKit, SpriteKit, CoreGraphics|Accepted|
 |[Mauricio Lorenzetti](https://github.com/mauricio-lorenzetti/)|[GitHub](https://github.com/mauricio-lorenzetti/Connecting-Dots-WWDC18)| | CoreAnimation, UIKit | Accepted |
 |[Mehul Mohan](https://twitter.com/mehulmpt/)|[GitHub](https://github.com/mehulmpt/wwdc2018)| [YouTube](https://www.youtube.com/watch?v=Hg0k5xvj68s) | SpriteKit, AVFoundation |Submitted|
@@ -164,4 +165,3 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Zhang Bozheng](https://github.com/zbz-lvlv)|[GitHub](https://github.com/zbz-lvlv/Chemistry_WWDC18)|[YouTube](https://youtu.be/IKefnNeZKf4)|SpriteKit, AVFoundation|Accepted| 
 |[Zhixing Zhang](https://www.neoto.xin/)| [GitHub](https://github.com/Neotoxin4365/WWDC18) | [YouTube](https://youtu.be/vfzuN8sozR0) | UIKit, CoreAnimation, CoreGraphics, Carthage | Rejected |
 |[Zhiyu Zhu](https://apollozhu.github.io/)| [GitHub](https://github.com/ApolloZhu/Pong-Hau-K-i) | | AppKit, CoreGraphics, GameplayKit, SpriteKit | Accepted |
-|[Matheus Tusi](https://www.facebook.com/mattusi98)|[GitHub](https://github.com/mattusi/WWDC18_Submission)||CoreML, UIKit-Dynamics, CoreMotion, Vision, ARKit, SceneKit| Accepted |
