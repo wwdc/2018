@@ -127,6 +127,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Leon Hahne](https://github.com/Limoo)|[GitHub](https://github.com/Limoo/WWDC) | [YouTube](https://youtu.be/JHujapuFdEk) |SpriteKit | Submitted |
 |[Leonel Lima](https://github.com/leo1mml)|[GitHub](https://github.com/leo1mml/WWDC2018) | [YouTube](https://www.youtube.com/watch?v=N-DQeb1bKKk) |SpriteKit, GameplayKit, UIKit, AVFoundation | Submitted |
 |[Llogari Casas](https://github.com/llogaricasas)|[GitHub](https://github.com/llogaricasas/WWDC2018) | [YouTube](https://youtu.be/MTmifyGFKRM)|UIKit, CoreML|Rejected|
+|[Lucas Assis Rodrigues](www.linkedin.com/in/lucas-assis-rodrigues)|[GitHub](https://github.com/LucasAssisRo/ColorPiano_WWDC2018_Submission/tree/master) | [YouTube](https://youtu.be/gdMyAIu8nBI)|AVFoundation, UIKit|Accepted|
 |[Luis Mautone](https://github.com/luismautone)|[GitHub](https://github.com/luismautone/SketchAFacePlaygroundbook) | |UIKit, CoreAnimation, CoreGraphics, PlaygroundBook|Accepted|
 |[Lukas A. Mueller](https://lukasam.com)|[GitHub](https://github.com/luki/wwdc-2018)|[YouTube](https://www.youtube.com/watch?v=H6R0QEuuVow) | Darwin, SpriteKit, UIKit | Submitted |
 |[Maciej Gomółka](https://github.com/Zaprogramiacz) | [GitHub](https://github.com/Zaprogramiacz/Labyrinth-WWDC2018) | [YouTube](https://www.youtube.com/watch?v=5f5r8MwdWWM) | UIKit, AVFoundation, XCTest | Submitted |
