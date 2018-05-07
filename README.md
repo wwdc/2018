@@ -138,7 +138,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Mars Geldard](https://twitter.com/TheMartianLife)|[GitHub](https://github.com/TheMartianLife/WWDC-2018)| | UIKit, SpriteKit, PlaygroundBooks, AVFoundation |Accepted|
 |[Matheus Rabelo](https://github.com/omatheusr)|[GitHub](https://github.com/omatheusr/Lost-Knight)| |SpriteKit|Accepted|
 |[Matheus Tusi](https://www.facebook.com/mattusi98)|[GitHub](https://github.com/mattusi/WWDC18_Submission)||CoreML, UIKit-Dynamics, CoreMotion, Vision, ARKit, SceneKit| Accepted |
-| [Mathieu Francois] (https://github.com/mathieufrancois) | | | UIKit | Rejected |
+|[Mathieu Francois](https://github.com/mathieufrancois) | | | UIKit | Rejected |
 |[Mattia Fonisto](https://about.me/uzarel)|[GitHub](https://github.com/Uzarel/Heart-of-Mathematics)|[YouTube](https://youtu.be/_BiAqXCkpPA)|UIKit, SpriteKit, CoreGraphics|Accepted|
 |[Mauricio Lorenzetti](https://github.com/mauricio-lorenzetti/)|[GitHub](https://github.com/mauricio-lorenzetti/Connecting-Dots-WWDC18)| | CoreAnimation, UIKit | Accepted |
 |[Mehul Mohan](https://twitter.com/mehulmpt/)|[GitHub](https://github.com/mehulmpt/wwdc2018)| [YouTube](https://www.youtube.com/watch?v=Hg0k5xvj68s) | SpriteKit, AVFoundation |Submitted|
