@@ -53,7 +53,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Carlo Palumbo](https://www.linkedin.com/in/carlo-palumbo-992358111/) | [GitHub](https://github.com/patana93/Go-To-Space-With-Electronic-WWDC18) | [Youtube](https://youtu.be/QkqDQUVv5VQ)| SpriteKit, Playground books | Accepted |
 |[Chan Jing Hong](https://github.com/cjinghong/) | [GitHub](https://github.com/cjinghong/RiddlePhoneX) | [Youtube](https://www.youtube.com/watch?v=IDysiA4j1RU) | UIKit | Accepted |
 |[Chip Beck](https://github.com/ch1pa/) | [GitHub](https://github.com/ch1pa/WWDC-2018-Scholarship-Application/) || UIKit, MapKit, AVKit, CoreGraphics | Accepted |
-|[Charles Schacher](https://github.com/quoimec/) | [GitHub](https://github.com/quoimec/Colour)|| UIKit | Accepted
+|[Charles Schacher](https://github.com/quoimec/) | [GitHub](https://github.com/quoimec/Colour)|| UIKit | Accepted|
 |[Charles-Olivier Demers](https://github.com/charlot567/) | [GitHub](https://github.com/charlot567/WWDC-2018) || UIKit, SpriteKit, Playground book | Rejected |
 |[Christian Schnorr](https://github.com/jenox/) | [GitHub](https://github.com/jenox/WWDC-2018-Bezier-Curves-in-Typography/) || CoreGraphics & CoreText | Submitted |
 |[Cibele Paulino](https://github.com/CibelePaulinoAndrade) | | [Youtube](https://www.youtube.com/watch?v=ciyNZGnbcRw)| SpriteKit, UIKit, Playground books | Accepted |
