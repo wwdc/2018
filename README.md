@@ -120,6 +120,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Kamil Kosowski](https://twitter.com/KKosovsky)|| [YouTube](https://www.youtube.com/watch?v=y74i_7dIZeI) |UIKit, CoreGraphics, CoreAnimation| Submitted | 
 |[KK Chen](https://bichenkk.com/)| [GitHub](https://github.com/bichenkk/blockchain-swift-playground) || UIKit | Submitted |
 |[Klemens Strasser](https://twitter.com/klemensstrasser)|[GitHub](https://github.com/KlemensStrasser/BlindspotPlayground/) || Accessibility, SpriteKit, AVFoundation | Accepted | 
+|[Krish Suchdev](https://www.krishsuchdev.com)| | | UIKit, Playground Book, CoreGraphics | Accepted | 
 |[Kuixi Song](https://github.com/songkuixi)|[GitHub](https://github.com/songkuixi/ARTargetShooting) |[YouTube](https://www.youtube.com/watch?v=mMFkfY6NURs)| SceneKit, ARKit, AudioToolBox, PlaygroundSupport| Accepted | 
 |[Kyle Spadaro](https://twitter.com/kylespadaro)|[GitHub](https://github.com/kylespadaro2/WWDC/tree/master/2018) | |AVFoundation, GameplayKit, SpriteKit, UIKit|Accepted| 
 |[Lalo Martnez](https://twitter.com/L__A__L__O)|[GitHub](https://github.com/LaloMrtnz/Miles) | [YouTube](https://www.youtube.com/watch?v=gX_dBSTE-cE)|AudioToolbox, AVFoundation, MIDI, SpriteKit|Submitted | 
