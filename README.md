@@ -1,5 +1,7 @@
 # WWDC 2018 Scholarship Submissions
 
+![WWDC.jpg by Rahul Bir](https://i.imgur.com/kssQM5i.jpg)
+
 List of student submissions for the WWDC 2018 scholarship.
 To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/README.md) this file and submit a pull request! Please read the **PLEASE READ** section before submitting.
 
