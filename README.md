@@ -51,6 +51,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Brandon Chester](https://github.com/nexusCFX)|[GitHub](https://github.com/nexusCFX/Mixer)| | UIKit, AVFoundation, Core Animation | Accepted |
 |[Brenda Lau](https://github.com/brendalaupg)||[YouTube](https://youtu.be/GBjFjhVzFdc)| CoreML, Vision, AVKit | Accepted |
 |[Bruno Chagas](https://github.com/bruno3chagas) | [GitHub](https://github.com/bruno3chagas/ShapeRave) | [YouTube](https://youtu.be/fM53qPnnk5M) | SpriteKit, UIKit | Submitted |
+|[Bruno Scheltzke](https://www.linkedin.com/in/brunoscheltzke/) | [GitHub](https://github.com/BrunoScheltzke/Rhythm-Learning-Playground) | [YouTube](https://www.youtube.com/watch?v=-_mpH9haHxE&feature=youtu.be) | UIKit, AVFoundation | Accepted |
 |[Carlo Carpio](https://github.com/CarloCarpio93) | [GitHub](https://github.com/CarloCarpio93/ProjectTesla) | [Youtube](https://www.youtube.com/watch?v=bxd26oV6p48&t=16s)| SpriteKit, UIKit, Playground books | Accepted |
 |[Carlo Palumbo](https://www.linkedin.com/in/carlo-palumbo-992358111/) | [GitHub](https://github.com/patana93/Go-To-Space-With-Electronic-WWDC18) | [Youtube](https://youtu.be/QkqDQUVv5VQ)| SpriteKit, Playground books | Accepted |
 |[Chan Jing Hong](https://github.com/cjinghong/) | [GitHub](https://github.com/cjinghong/RiddlePhoneX) | [Youtube](https://www.youtube.com/watch?v=IDysiA4j1RU) | UIKit | Accepted |
