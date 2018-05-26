@@ -142,7 +142,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Maisa Milena](https://www.linkedin.com/in/maisamilena/)|[GitHub](https://github.com/MaisaMilena/WWDC18_Photosynthesis)|[Youtube](https://www.youtube.com/watch?v=HvdIz6x3TTc) | SpriteKit, AVFoundation | Accepted |
 |[Marcos Castaneda](https://marcos.me)|[GitHub](https://github.com/marcoss/FruityML)| | UIKit, CoreML, Vision, AVFoundation | Accepted |
 |[Marko Crnković](https://www.mbobpro.com)|[GitHub](https://github.com/chih98/wwdc2018)| [YouTube](https://youtu.be/TLk9B5GRLtM)|Accelerate, AVFoundation, SpriteKit|Accepted|
-|[Marcel Hagmann](http://marcelhagmann.de)||[YouTube](https://youtu.be/UIMMhYHxPxQ)| UIKit, AVFoundation, CAEmitterLayer, UIViewPropertyAnimator, CAKeyframeAnimation |Accepted|
+|[Marcel Hagmann](http://marcelhagmann.de)|[GitHub](https://github.com/Marceeelll/WWDC18)|[YouTube](https://youtu.be/UIMMhYHxPxQ)| UIKit, AVFoundation, CAEmitterLayer, UIViewPropertyAnimator, CAKeyframeAnimation |Accepted|
 |[Mars Geldard](https://twitter.com/TheMartianLife)|[GitHub](https://github.com/TheMartianLife/WWDC-2018)| | UIKit, SpriteKit, PlaygroundBooks, AVFoundation |Accepted|
 |[Matheus Rabelo](https://github.com/omatheusr)|[GitHub](https://github.com/omatheusr/Lost-Knight)| |SpriteKit|Accepted|
 |[Matheus Tusi](https://www.facebook.com/mattusi98)|[GitHub](https://github.com/mattusi/WWDC18_Submission)||CoreML, UIKit-Dynamics, CoreMotion, Vision, ARKit, SceneKit| Accepted |
