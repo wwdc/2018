@@ -149,6 +149,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Mathieu Francois](https://github.com/mathieufrancois) | | | UIKit | Rejected |
 |[Mattia Fonisto](https://about.me/uzarel)|[GitHub](https://github.com/Uzarel/Heart-of-Mathematics)|[YouTube](https://youtu.be/_BiAqXCkpPA)|UIKit, SpriteKit, CoreGraphics|Accepted|
 |[Mauricio Lorenzetti](https://github.com/mauricio-lorenzetti/)|[GitHub](https://github.com/mauricio-lorenzetti/Connecting-Dots-WWDC18)| | CoreAnimation, UIKit | Accepted |
+|[Maxim Eremenko](http://github.com/devMEremenko/)|[GitHub](https://github.com/devMEremenko/wwdc-2018)| [YouTube](https://www.youtube.com/watch?v=i1Xdys91hqc) | VIPER, UIKit, UIView.Animation, Operations | Submitted |
 |[Mehul Mohan](https://twitter.com/mehulmpt/)|[GitHub](https://github.com/mehulmpt/wwdc2018)| [YouTube](https://www.youtube.com/watch?v=Hg0k5xvj68s) | SpriteKit, AVFoundation |Submitted|
 |[Michaeł Froehlich](www.linkedin.com/in/m-froehlich) | [GitHub](https://github.com/FroeMic/at.frhlch.ios.playground.wwdc2018) | | SpriteKit, Detailed Writeup | Accepted |
 |[Michał Cichecki](https://www.linkedin.com/in/mcichecki/) | [GitHub](https://github.com/mcichecki/mini-piano) | | SpriteKit, AVFoundation | Accepted |
