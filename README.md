@@ -100,6 +100,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Henrik Storch](https://github.com/thisisthefoxe)|[GitHub](https://github.com/thisisthefoxe/wwdc18)|[Youtube](https://www.youtube.com/watch?v=EDvdbKoTuR4)|UIKit, SceneKit, ARKit, PlaygroundBook| Accepted |
 |[Henrique Velloso](https://twitter.com/henriqvelloso)|||UIKit, ARKit, Playground| Accepted |
 |[Henry Gu](https://github.com/hg1722)|[GitHub](https://github.com/hg1722/mnist_invaders)||UIKit, SpriteKit, CoreML, AVFoundation| Submitted |
+|[Hugo Lispector](https://github.com/HugoLis) | [GitHub](https://github.com/HugoLis/WWDC18-Scholarship) | [App Store](https://itunes.apple.com/br/app/aster/id1385736929?l=en&mt=8) | SpriteKit, AVFoundation | Accepted |
 |[Hugo Lundin](https://github.com/hugolundin)|[GitHub](https://github.com/hugolundin/TuringMachines)||UIKit, PlaygroundBooks| Submitted |
 |[Iaconelli Luca](https://github.com/Luca9307)|[GitHub](https://github.com/Luca9307/WWDC_2018)||UIKit, PlaygroundBooks| Submitted |
 |[Igor Rinkovec](https://github.com/TheWildHorse)|[GitHub](https://github.com/TheWildHorse/GuillochePlayground)|[YouTube](https://www.youtube.com/watch?v=UzRLZKDSB0I)|SceneKit, UIKit, PlaygroundBooks| Accepted |
