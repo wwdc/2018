@@ -197,7 +197,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Sophia Kalanovska](https://github.com/SophiaKalanovska)|[GitHub](https://github.com/SophiaKalanovska/WWDC18)| |XCPlayground, UIKit, GameplayKit, AVFoundation | Submitted|
 |[Soroush Shahi](http://faderani.ir)| | | SpriteKit, GamePlayKit, AVFoundation | Submitted |
 |[Sunghyun Cho](https://github.com/anaclumos)|[Github](https://github.com/anaclumos/WWDC2018-Scholarship-Submission)| | UIKit, PlaygroundSupport | Accepted |
-|[Tassos Chouliaras](https://github.com/t4sso/)|[Github](https://github.com/t4sso/TheGameOfDiversity)| | UIKit, SpriteKit, Core Graphics | Accepted |
+|[Tassos Chouliaras](https://gitlab.com/t4sso)|[GitLab](https://gitlab.com/t4sso/thegameofdiversity)| | UIKit, SpriteKit, Core Graphics | Accepted |
 |[Thijs van der Heijden](https://www.facebook.com/thijsheijden2000)|[GitHub](https://github.com/thijsheijden/WWDC18-Scholarship-Submission)|[YouTube](https://www.youtube.com/watch?v=ZvwVWEtRFsw&t=16s&ab_channel=ThijsvanderHeijden)|UIKit, CoreML, Vision, AVFoundation|Accepted|
 |[TJ Ledwith](https://github.com/makertech81)|[GitHub](https://github.com/makertech81/WWDC_2018)| |UIKit, SpriteKit, AVFoundation, Gesture Recognition | Submitted|
 |[Valmir Massoni Jr.](https://github.com/vrjunior)|[GitHub](https://github.com/vrjunior/Metamorphosis)|[YouTube](https://youtu.be/r2Xgh0uxGe0)|SceneKit, AVFoundation|Rejected|
