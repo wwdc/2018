@@ -223,4 +223,5 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Zhang Bozheng](https://github.com/zbz-lvlv)|[GitHub](https://github.com/zbz-lvlv/Chemistry_WWDC18)|[YouTube](https://youtu.be/IKefnNeZKf4)|SpriteKit, AVFoundation|Accepted| 
 |[Zhixing Zhang](https://www.neoto.xin/)| [GitHub](https://github.com/Neotoxin4365/WWDC18) | [YouTube](https://youtu.be/vfzuN8sozR0) | UIKit, CoreAnimation, CoreGraphics, Carthage | Rejected |
 |[Zhiyu Zhu](https://apollozhu.github.io/)| [GitHub](https://github.com/ApolloZhu/Pong-Hau-K-i) | | AppKit, CoreGraphics, GameplayKit, SpriteKit | Accepted |
+|[Zixuan Tang](https://github.com/TonyTang2001)| [GitHub](https://github.com/TonyTang2001/Internet-Traffic-WWDC18-Scholarship) | [YouTube](https://youtu.be/hXHF-s-IwUw) | UIKit, AudioToolBox | Accepted |
 |[Ziyao Zhang](https://github.com/ziyaointl)| [GitHub](https://github.com/ziyaointl/Fourier) | | UIKit, AVFoundation, Accelerate, SceneKit, Interface Builder, Core Animation, PlaygroundBook | Accepted |
