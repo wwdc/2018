@@ -168,10 +168,10 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Nils Leif Fischer](https://github.com/nilsleiffischer)| [GitHub](https://github.com/nilsleiffischer/gravitational-waves-playground) | | SceneKit, Metal, PlaygroundBook | Accepted |
 |[Nirmit Patel](https://github.com/nap0017)| | | UIKit, ARKit, SceneKit, SpriteKit | Submitted |
 |[Oleg Dreyman](https://github.com/dreymonde)|[GitHub](https://github.com/dreymonde/Paperville)| | UIKit, Core Animation | Accepted |
+|Olivier Lemer| [GitHub](https://github.com/OlivierLmr/wwdc18) || SpriteKit, AVFoundation | Accepted |
 |[Omar Albeik](https://twitter.com/omaralbeik/)|[GitHub](https://github.com/omaralbeik/mnist-coreml)| [YouTube](https://www.youtube.com/watch?v=d-6gJKAojDY) | UIKit, CoreML, Keras | Accepted |
 |[Osama Naeem](https://github.com/Onaeem26)|[GitHub](https://github.com/Onaeem26/passcodewwdc)| [YouTube](https://www.youtube.com/watch?v=6OSWDy9NW90) | UIKit, CoreAnimation, CADisplayLink, UIBezierPath | Accepted |
 |Ozan Mirza| [GitHub](http://github.com/ozanmirza1/PaintPad-2.0) || UIKit | Submitted |
-|Olivier Lemer| [GitHub](https://github.com/OlivierLmr/wwdc18.git) || SpriteKit, AVFoundation | Accepted |
 |[Paige Sun](https://github.com/p-sun/)|[GitHub](https://github.com/p-sun/ARPowerPanels)|| ARKit, SceneKit, Metal, PlaygroundBook + iOS framework + iOS app | Rejected |
 |[Peter Simon](http://github.com/donleysimon)|[GitHub](http://github.com/donleysimon/WWDC-2018-Colorless)|| UIKit, CoreImage | Submitted |
 |[Qingyang Hu](https://github.com/mmlmml1)| [Github](https://github.com/mmlmml1/Waves) | |SceneKit, SpriteKit, ARKit, UIKit, PlaygroundBooks| Submitted|
