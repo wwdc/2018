@@ -166,6 +166,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Moritz Bruder](https://github.com/moritzbruder)| [GitHub](https://github.com/moritzbruder/DesignPattern-Playground)  |  | UIKit | Accepted |
 |[Moritz Philip Recke](https://moritzrecke.com)| [GitHub](https://github.com/mprecke/The-Illusion-Of-Movement)  | [GIF](https://github.com/mprecke/The-Illusion-Of-Movement/blob/master/The-Illusion-Of-Movement.gif) | UIKit, AVFoundation, PlaygroundSupport, PlaygroundBook, | Accepted |
 |[Nadin Tamer](https://github.com/nadintamer)| [GitHub](https://github.com/nadintamer/The-Code-of-Life) | | UIKit, SpriteKit, AVFoundation | Accepted |
+|[Naman Bishnoi](https://lucidex.co)| [GitHub](https://github.com/diabloxenon/Realtime-Shortest-Route-App) | | MapKit, UIKit | Rejected |
 |[Nathan Gitter](https://twitter.com/nathangitter)| [GitHub](https://github.com/nathangitter/PentatonicGameOfLife) | | SpriteKit | Accepted |
 |[Nicholas Grana](https://github.com/Nicholas714)|[GitHub](https://github.com/Nicholas714/WWDC-2018)| [YouTube](https://youtu.be/xpKNT1dRKks) | ARKit, SceneKit, SpriteKit | Accepted |
 |[Niklas Buelow](https://github.com/insightmind)|[GitHub](https://github.com/insightmind/WWDC18Scholarship)| | SpriteKit, SpriteKit-Spring | Accepted |
