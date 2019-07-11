@@ -182,6 +182,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Qingyang Hu](https://github.com/mmlmml1)| [Github](https://github.com/mmlmml1/Waves) | |SceneKit, SpriteKit, ARKit, UIKit, PlaygroundBooks| Submitted|
 |[Raffael Kaehn](https://github.com/vortycon)|[GitHub](https://github.com/vortycon/WWDC18)| [YouTube](https://youtu.be/KFWYJvmqPio) | UIKit, SceneKit | Accepted |
 |[Răzvan Geangu](https://github.com/razvangeangu)|[GitHub](https://github.com/razvangeangu/WWDC18-SpaceWord)| | SpriteKit, UIKit, AVFoundation | Rejected |
+|[Renan Magagnin](https://www.linkedin.com/in/renanmagagnin/) | [GitHub](https://github.com/renanmagagnin/orbs-wwdc18) | [YouTube](https://youtu.be/W-tzS0x1SiA) | SpriteKit, AVFoundation | Accepted |
 |[Renan Silveira](https://github.com/rnnsilveira) | [GitHub](https://github.com/rnnsilveira/SolarSystSimulatorWWDC2018) || SpriteKit, UIKit | Submitted |
 |[Renata Faria](https://github.com/xReee)|[GitHub](https://github.com/xReee/wwdc2018)|[YouTube](https://www.youtube.com/watch?v=YHBSvNmBFBY&t)| UIKit, AVFoundation, Accessibility, NotificationCenter, UIGestures | Rejected|
 |[Ricardo Ferreira](https://github.com/RicardoFelipeFerreira)| |[YouTube](https://youtu.be/u_ohynGdFIo)| UIKit, ARKit, SpriteKit, SceneKit, AVFoundation | Accepted |
