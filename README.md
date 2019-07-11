@@ -99,7 +99,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Harish Yerra](https://github.com/hyerra)|[Github](https://github.com/hyerra/PixelFun)||CoreML, ARKit, Core Image| Accepted |
 |[Harshita Arora](https://github.com/harshitaarora)|[GitHub](https://github.com/harshitaarora/Alice-in-codeLand)|[YouTube](https://youtu.be/X0fZRXtIpkM)|UIKit| Submitted |
 |[Hengyu Liu](https://github.com/a211212abc)|||UIKit, PlaygroundBooks| Rejected |
-|[Hengyu Zhou](https://github.com/Hengyu) | | [YouTube](https://www.youtube.com/watch?v=cZHQ5dmkglA) | ARKit, CoreGraphics, SceneKit, UIKit | Submitted | 
+|[Hengyu Zhou](https://github.com/Hengyu) | | [YouTube](https://www.youtube.com/watch?v=cZHQ5dmkglA) | ARKit, CoreGraphics, SceneKit, UIKit | Rejected | 
 |[Henrik Storch](https://github.com/thisisthefoxe)|[GitHub](https://github.com/thisisthefoxe/wwdc18)|[Youtube](https://www.youtube.com/watch?v=EDvdbKoTuR4)|UIKit, SceneKit, ARKit, PlaygroundBook| Accepted |
 |[Henrique Velloso](https://twitter.com/henriqvelloso)|||UIKit, ARKit, Playground| Accepted |
 |[Henry Gu](https://github.com/hg1722)|[GitHub](https://github.com/hg1722/mnist_invaders)||UIKit, SpriteKit, CoreML, AVFoundation| Submitted |
