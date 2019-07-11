@@ -160,7 +160,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Miguel Salinas](https://github.com/Vercantez)|[GitHub](https://github.com/Vercantez/Synesthesia)|[YouTube](https://youtu.be/hIYFR4CwJ9I)|Accelerate, AVFoundation, Cocoa|Accepted|
 |[Mikey T. Krieger](https://www.helikes.it/) | [GitHub](https://github.com/mtkrieger/AstroYoga) | [YouTube](https://youtu.be/qE-lkiyXM1E) | Playground Books, UIKit, SceneKit, SpriteKit | Rejected |
 |[Ming Mai](https://twitter.com/mmdadao/) | [GitHub](https://github.com/kingcos/ML-Scratch-WWDC18) | | ARKit, CoreML, PlaugroundBooks, SceneKit, Vision | Submitted |
-|[Mingyuan Hu](https://github.com/miamiaH) | | [YouTube](https://www.youtube.com/watch?v=uEBkfUbR7Ys) | CoreGraphics, UIKit | Submitted | 
+|[Mingyuan Hu](https://github.com/miamiaH) | | [YouTube](https://www.youtube.com/watch?v=uEBkfUbR7Ys) | CoreGraphics, UIKit | Accepted | 
 |[Mohamed Salah](https://www.facebook.com/Abo.Salahh77) | [GitHub](https://github.com/MoHamEdSaLaHH/WWDC18-Scholarship-Submission) |[YouTube](https://www.youtube.com/watch?v=O5AdeSrqHw4) | UIKit, AVFoundation, SceneKit, CoreGraphics | Rejected |
 |[Monika Zielonka](https://github.com/emzielonka)| | [YouTube](https://youtu.be/Dmbo9deFmvI) | UIKit, Core Animation, Core Graphics | Submitted |
 |[Moritz Bruder](https://github.com/moritzbruder)| [GitHub](https://github.com/moritzbruder/DesignPattern-Playground)  |  | UIKit | Accepted |
