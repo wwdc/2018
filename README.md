@@ -228,3 +228,4 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Zhiyu Zhu](https://apollozhu.github.io/)| [GitHub](https://github.com/ApolloZhu/Pong-Hau-K-i) | | AppKit, CoreGraphics, GameplayKit, SpriteKit | Accepted |
 |[Zixuan Tang](https://github.com/TonyTang2001)| [GitHub](https://github.com/TonyTang2001/Internet-Traffic-WWDC18-Scholarship) | [YouTube](https://youtu.be/hXHF-s-IwUw) | UIKit, AudioToolBox | Accepted |
 |[Ziyao Zhang](https://github.com/ziyaointl)| [GitHub](https://github.com/ziyaointl/Fourier) | | UIKit, AVFoundation, Accelerate, SceneKit, Interface Builder, Core Animation, PlaygroundBook | Accepted |
+|[Jiachen Fu](https://jessicafjc.github.io/)| |[YouTube](https://www.youtube.com/watch?v=Sbnbb5Ik7H0&t=36s)| ARKit, UIKit, AVFoundation |Accepted|
