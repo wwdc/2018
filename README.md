@@ -34,6 +34,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Andy Vainauskas](https://github.com/AndyJVain)|[GitHub](https://github.com/AndyJVain/crack-the-code)||AVFoundation, UIKit|Accepted|
 |[Anıl Gürses](https://github.com/anlgrses)|[GitHub](https://github.com/anlgrses/wwdc2018submission)||UIKit, AVFoundation|Submitted|
 |[Anirudh Natarajan](https://github.com/aniNatarajan12/)| [GitHub](https://github.com/aniNatarajan12/RushToWWDC)| [Youtube](https://www.youtube.com/watch?v=IN3XOPIYWsY)| ARKit, SceneKit, SpriteKit, AVFoundation| Accepted|
+|[Anne Li](https://anli.io)|[GitHub](https://github.com/fibanneacci/taylor-series-sine)|[Youtube](https://www.youtube.com/watch?v=PalTqRUvYdM)|UIKit|Rejected|
 |[Antonio Zaitoun](https://github.com/Minitour/)|[GitHub](https://github.com/Minitour/Micro-Interface-Builder)| [YouTube](https://www.youtube.com/watch?v=G0yjMRrsG7c)| UIKit, SceneKit, CoreGraphics, CoreAnimation | Submitted|
 |[Arno Appenzeller](https://github.com/arnoappenzeller)|[GitHub](https://github.com/arnoappenzeller/WWC18-Scholarship-Submission)|| UIKit, PlaygroundBook | Submitted|
 |[Arthur Schiller](http://arthurschiller.de)||[Youtube](https://www.youtube.com/watch?v=5CnECMTf42k&t)| UIKit, ARKit, SceneKit, SpriteKit, Metal, GameplayKit | Accepted|
