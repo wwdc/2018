@@ -1,6 +1,6 @@
 # WWDC 2018 - Scholarship
 
-![WWDC 2018 Logo](https://i.imgur.com/kssQM5i.jpg)
+![WWDC 2018 Logo](logo.png)
 
 List of student submissions for the WWDC 2018 - Scholarship. The list is in alphabetical order.
 
@@ -14,7 +14,7 @@ Use the **[update form](https://github.com/wwdc/2018/issues/new?template=update.
 
 ### Submissions
 
-| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status |
+| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status<br>           |
 |:--|:--|:--|
 | [Aaron Cheung](https://www.facebook.com/WahYanAaron) | [GitHub](https://github.com/AaronCheung430/WWDC2018) · [Video](https://youtu.be/t9Bp4rkPh7E)<br><sub>UIKit, AVFoundation, Gesture Recognizer</sub> | ![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge) |
 | [Aaron Nguyen](https://github.com/attwelveDev) | [GitHub](https://github.com/attwelveDev/WWDC18-Submission)<br><sub>UIKit, AVFoundation</sub> | ![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge) |
