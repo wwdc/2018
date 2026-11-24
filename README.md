@@ -14,7 +14,7 @@ Use the **[update form](https://github.com/wwdc/2018/issues/new?template=update.
 
 ### Submissions
 
-| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status<br>           |
+| Participant | Links<br><img src="assets/spacer.svg" width="2000" height="1" alt=""> | Status<br>           |
 |:--|:--|:--|
 | [Aaron Cheung](https://www.facebook.com/WahYanAaron) | [GitHub](https://github.com/AaronCheung430/WWDC2018) · [Video](https://youtu.be/t9Bp4rkPh7E)<br><sub>UIKit, AVFoundation, Gesture Recognizer</sub> | ![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge) |
 | [Aaron Nguyen](https://github.com/attwelveDev) | [GitHub](https://github.com/attwelveDev/WWDC18-Submission)<br><sub>UIKit, AVFoundation</sub> | ![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge) |
